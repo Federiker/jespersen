@@ -1,0 +1,36 @@
+# jespersen's own Serbian test sentences (CC0), in Cyrillic and in Latin letters: spelling, syllabic
+# r, voicing, clitics, numbers with their gender, dates, money, abbreviations and initialisms.
+
+Деца се играју у дворишту иза школе.
+Добро јутро, како сте данас?
+Хвала вам, сви смо добро.
+Београд је главни град Србије.
+Моја сестра живи у Новом Саду већ пет година.
+Пас трчи преко моста према реци.
+Сутра ћемо ићи у позориште са пријатељима.
+Ова књига је веома занимљива и лепо написана.
+Улазница кошта 500 динара по особи.
+Састанак почиње у 10:30 у сали број 4.
+Рођен је 3. маја 1975. године у Нишу.
+Др. Петровић ради у великој болници.
+Температура је данас 25 степени.
+Купила сам две јабуке и три крушке.
+Ђаци су научили нову песму о пролећу.
+Чекали смо га на станици више од сат времена.
+Џеп његовог капута је био пун шљунка.
+Љубав према музици наследио је од оца.
+Прст ме боли откако сам пао с бицикла.
+У граду има 1250 нових станова.
+Deca se igraju u dvorištu iza škole.
+Beograd leži na ušću Save u Dunav.
+Naš komšija je kupio novi automobil.
+Prodavnica radi od 8 do 20 časova.
+Profesor je objasnio zadatak, npr. kako se računa površina.
+Voz za Zagreb polazi u 7 sati.
+Kad sam bio mali, voleo sam da čitam bajke.
+Svake nedelje idemo na pijacu po voće i povrće.
+Ona je rekla da će doći sutra uveče.
+Cena je porasla za 15% u poslednjih godinu dana.
+Moj brat studira medicinu na fakultetu.
+Šuma je bila tiha i mračna.
+Pročitao sam 21 knjigu ovog leta.

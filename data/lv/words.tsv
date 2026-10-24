@@ -1,0 +1,11 @@
+# jespersen's own Latvian word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. In a loanword the rules do not
+# spot, ò is a short o and ō a long one (opera → òpera); ä and ǟ are an open e and ē.
+auto	autō
+eiro	eirō
+kino	kinō
+novembris	nòvembris
+oktobris	òktòbris
+opera	òpera
+procenti	pròcenti
+romānus	ròmānus

@@ -1,0 +1,15 @@
+[package]
+name = "jespersen_spoken"
+description = "What a sentence's tokens are said as, for languages read from their spelling"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+jespersen_phonemes.workspace = true
+jespersen_text.workspace = true
+
+[lints]
+workspace = true

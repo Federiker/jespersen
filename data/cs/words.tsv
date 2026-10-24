@@ -1,0 +1,18 @@
+# jespersen's own Czech word list (CC0): words respelt for what the spelling rules would miss. One
+# per line: the word in lower case, a tab, its respelling. The rules soften d, t and n before i,
+# í and ě; loanwords that keep them hard are respelt with y (univerzita unyverzita).
+diskuse	dyskuse
+diskuze	dyskuze
+informatika	informatyka
+matematika	matematyka
+ministerstvo	mynysterstvo
+ministr	mynystr
+politika	polityka
+politický	polytycký
+rádio	rádyo
+studio	studyo
+technika	technyka
+univerzita	unyverzita
+univerzity	unyverzity
+univerzitě	unyverzytě
+minus	mínus

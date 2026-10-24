@@ -1,0 +1,37 @@
+# jespersen's own Estonian test sentences (CC0): spelling, õ, ä, ö, ü, short, long and overlong
+# vowels, doubled consonants, palatalisation, numbers, dates, money, abbreviations and
+# initialisms.
+
+Kass magab naabri maja katusel.
+Tere hommikust, kuidas teil täna läheb?
+Aitäh, mul läheb väga hästi.
+Tallinn on Eesti pealinn.
+Lapsed mängivad koolihoovis jalgpalli.
+Ema keedab värsketest köögiviljadest suppi.
+Homme hommikul läheme sõpradega mere äärde.
+Terve öö sadas vihma ja tänavad on märjad.
+Minu vend töötab õpetajana väikeses külas.
+Laupäeviti on turul alati palju inimesi.
+Mul on 21 raamatut ja 15 € rahakotis.
+Koosolek toimub 3.5.2024 Tartus.
+Leiva hind on tõusnud 10 %.
+Mäe tipus langes temperatuur -5 kraadini.
+Dr. Tamm ja prof. Kask olid konverentsil.
+Kontor asub Pärnu maantee nr. 12.
+Ta töötab ÜRO-s ja reisib tihti välismaale.
+Kirjutage meile aadressil info@naide.ee, palun.
+Kalurid läksid enne koitu merele.
+Vanaema rääkis lugusid oma noorusest.
+Need punased roosid lõhnavad imeliselt.
+Me laulsime koos lõkke ääres.
+Sõit Pärnusse kestis kolm tundi.
+Mu õde loeb meelsasti põnevaid romaane.
+Päike loojub künkade taha.
+Pood müüb värskeid puuvilju ja juurvilju.
+Me peame loodust ja keskkonda kaitsma.
+Lennuk maandus täpselt lennujaamas.
+Arst ütles talle, et ta sööks vähem suhkrut.
+Ära unusta ust lukustada, kui sa lähed.
+Ülikool avas uue raamatukogu.
+Aias kasvab õunapuu ja kaks kirsipuud.
+Täna on udune ja taevas on pilvi täis.

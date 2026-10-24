@@ -1,0 +1,91 @@
+# jespersen's own French word list (CC0): words respelt for what the spelling rules would miss. One
+# per line: the word in lower case, a tab, its respelling in letters the rules read as the word is
+# said. A doubled consonant and a final e keep a final consonant said (fils fisse, bus busse);
+# the rules drop a final s, x, z, t, d and p, say a final c, f, l and r, read -er as é and -ent of
+# verbs as silent.
+# Final consonants that are said.
+août	oute
+as	asse
+atlas	atlasse
+autobus	autobusse
+bus	busse
+cactus	cactusse
+campus	campusse
+fils	fisse
+gaz	gaze
+hélas	élasse
+huit	huite
+jadis	jadisse
+lis	lisse
+maïs	maïsse
+mars	marsse
+net	nette
+os	osse
+ouest	ouesste
+ours	oursse
+sens	sansse
+sept	sette
+sud	sude
+tennis	tennisse
+virus	virusse
+zut	zutte
+# Final consonants that are silent.
+aspect	aspè
+clef	clé
+estomac	estoma
+gentil	genti
+nerf	nère
+outil	outi
+persil	persi
+respect	respè
+suspect	suspè
+tabac	taba
+# -er said ɛʁ.
+amer	amère
+cancer	cancère
+cher	chère
+enfer	enfère
+fier	fière
+hiver	hivère
+super	supère
+# Vowels the rules would miss.
+deuxième	deuzième
+dixième	dizième
+examen	examin
+femme	famme
+monsieur	meçieu
+messieurs	mécieu
+oignon	ognon
+pays	pèi
+paysage	pèisage
+poêle	poile
+parfum	parfun
+second	segond
+seconde	segonde
+sixième	sizième
+# ill said il (ville, mille).
+mille	mile
+milliard	miliard
+million	milion
+tranquille	tranquile
+village	vilage
+ville	vile
+# ch said k.
+chœur	keur
+chorale	korale
+écho	éko
+orchestre	orkestre
+technique	teknique
+# Elided and joined.
+aujourd'hui	aujourdui
+# j'ai: its ai is é.
+ai	é
+# Other words.
+donc	donque
+faisais	fesais
+faisait	fesait
+faisaient	fesaient
+faisant	fesant
+faisons	fesons
+longtemps	lontemps
+mas	masse

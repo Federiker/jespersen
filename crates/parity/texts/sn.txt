@@ -1,0 +1,36 @@
+# jespersen's own Shona test sentences (CC0): implosive and breathy consonants, whistled sibilants,
+# ch, sh, zh, ny, ng', prenasalised consonants, numbers, dates, money, abbreviations.
+
+Mangwanani, mudzidzisi?
+Mwana ari kuverenga bhuku rake kuchikoro.
+Mombe dziri kufura uswa pedyo nerwizi.
+Nyika yedu ine makomo mazhinji nemadziva akanaka.
+Sekuru vakatiudza ngano yekare.
+Vanhu vazhinji vanoenda kumusika neMugovera.
+Mvura iri kunaya zvakanyanya nhasi.
+Ndinoda mvura nechingwa.
+Mukadzi wangu anoshanda kuchipatara cheHarare.
+Vana vari kutamba bhora munhandare.
+Takaenda kuMasvingo musi wa 3/5/2024.
+Imba iyi yakatengwa $15.000.
+Chikoro chedu chine vadzidzi 1.250.
+Mitengo yakwira ne 12% gore rino.
+Dr. Moyo vachauya na 10:30.
+Prof. Chivaura vakanyora bhuku idzva.
+Imbwa yangu iri kudya nyama.
+Mugwagwa unoenda kuMutare wakareba.
+Ndinokuda zvikuru, amai.
+Tinokutendai nerubatsiro rwenyu.
+Mudzidzisi anodzidzisa masvomhu nesainzi.
+Varimi vanorima chibage nenyemba.
+Kofi yeZimbabwe inozivikanwa pasi rose.
+Shiri dziri kuimba pamuti.
+Mangwana kuchava nemusangano wevagari.
+Guta reHarare rakachena.
+Hofisi yedu iri pauriri hwechi 2.
+Gore rino takakohwa matani 300 embambaira.
+Akaberekwa muna 1980 kuGweru.
+Ndinoyeuka rwiyo rwakanaka rwatairimba.
+Nzou neshumba zvinogara musango.
+Vanhu vose vakaombera maoko.
+Zvakanaka kugara murugare.

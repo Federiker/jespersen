@@ -1,0 +1,36 @@
+# jespersen's own Basque test sentences (CC0): spelling, tx, tz, ts, x, z, s, ll, ñ, rr, stress,
+# numbers, dates, money, abbreviations and initialisms.
+
+Katua etxeko teilatuan dago eta txoriei begira dago.
+Egun on, zer moduz zaude?
+Eskerrik asko, dena ondo dago.
+Euskal Herria Pirinioen mendebaldean dago.
+Haurrek pilotan jolasten dute eskolako patioan.
+Amak barazki zopa prestatzen du afaltzeko.
+Bihar goizean hondartzara joango gara.
+Gau osoan euria egin zuen eta kaleak bustita zeuden.
+Nire anaia irakaslea da herri txiki batean.
+Larunbatetan jende asko egoten da plazan.
+21 liburu eta 15 € ditut poltsan.
+Bilera 2024/5/3an izango da Bilbon.
+Ogiaren prezioa % 10 igo da aurten.
+Tenperatura -5 gradura jaitsi zen mendiaren gailurrean.
+Dr. Etxeberria eta Irakasle Agirre biltzarrean egon ziren.
+Bulegoa Kale Nagusian dago, 12. zenbakian.
+NBEn lan egiten du eta askotan bidaiatzen du atzerrira.
+Idatzi info@adibidea.eus helbidera, mesedez.
+Arrantzaleak itsasora atera ziren egunsentia baino lehen.
+Aitonak bere gaztaroko istorioak kontatzen zituen.
+Arrosa gorri horiek usain ona dute.
+Elkarrekin abestu genuen suaren ondoan.
+Donostiarako bidaiak hiru ordu iraun zuen.
+Nire ahizpari abentura liburuak irakurtzea gustatzen zaio.
+Eguzkia mendien atzean sartzen da.
+Dendak fruta eta barazki freskoak saltzen ditu.
+Natura eta ingurumena zaindu behar ditugu.
+Hegazkina garaiz lurreratu zen aireportuan.
+Amonak azenarioak landatzen ditu baratzean.
+Ez ahaztu atea ixtea irten aurretik.
+Unibertsitateak liburutegi berri bat jaso zuen.
+Txakurrak hezurra jan du.
+Zuhaitzak oso altuak dira.

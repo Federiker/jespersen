@@ -1,0 +1,33 @@
+# jespersen's own Indonesian test sentences (CC0): spelling, stress, digraphs, reduplication,
+# numbers, dates, money, abbreviations and initialisms.
+
+Kucing itu duduk di atas atap rumah dan melihat burung.
+Selamat pagi, apa kabar?
+Terima kasih, saya baik-baik saja.
+Indonesia adalah negara kepulauan yang sangat besar.
+Anak-anak bermain bola di lapangan sekolah.
+Ibu memasak nasi goreng untuk makan malam.
+Kami akan pergi ke pantai besok pagi.
+Hujan turun dengan deras sepanjang malam.
+Dia bekerja sebagai guru di sebuah desa kecil.
+Pasar itu selalu ramai pada hari Minggu.
+Saya punya 21 buku dan Rp 1.250 di dompet.
+Rapat diadakan pada 3/5/2024 di Jakarta.
+Harga beras naik 10 persen bulan ini.
+Suhu turun menjadi -5 derajat di puncak gunung.
+Dr. Siregar dan Prof. Wijaya hadir di acara itu.
+Kantor itu berada di Jl. Sudirman No. 12.
+Ia bekerja di PBB dan sering ke luar negeri.
+Silakan kirim surel ke info@contoh.co.id.
+Para nelayan berangkat ke laut sebelum subuh.
+Kakek bercerita tentang masa mudanya.
+Bunga mawar itu sangat harum.
+Mereka menyanyikan lagu kebangsaan bersama-sama.
+Perjalanan ke Yogyakarta memakan waktu delapan jam.
+Adik saya suka membaca buku cerita.
+Matahari terbenam di balik gunung.
+Toko itu menjual buah-buahan segar.
+Kita harus menjaga kebersihan lingkungan.
+Pesawat itu mendarat di Bali tepat waktu.
+Nenek menanam sayur di kebun belakang rumah.
+Jangan lupa mengunci pintu sebelum tidur.

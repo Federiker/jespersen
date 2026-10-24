@@ -1,0 +1,22 @@
+# jespersen's own Slovenian word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. ə is a schwa the rules would not
+# find. An accented vowel is stressed, written as Slovenian dictionaries write it: á, é, í, ó and
+# ú long and closed, ê and ô long and open, è and ò short. The rules stress the last syllable but
+# one and close e and o.
+deset	desét
+dobro	dôbro
+gospod	gôspod
+ker	kèr
+le	lè
+pogosto	pogôsto
+sem	səm
+skoro	skôro
+slovenija	slovénija
+svojo	svôjo
+še	šè
+zoro	zôro
+žogo	žôgo
+bodo	bôdo
+dolgo	dôlgo
+okrog	ôkrog
+podobo	podôbo

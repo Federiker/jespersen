@@ -1,0 +1,36 @@
+# jespersen's own Albanian test sentences (CC0): spelling, ë, the digraphs, q, gj, x, xh, rr, ll,
+# stress, numbers, dates, money, abbreviations and initialisms.
+
+Macja fle mbi çatinë e shtëpisë së fqinjit.
+Mirëmëngjes, si jeni sot?
+Faleminderit shumë, jam shumë mirë.
+Tirana është kryeqyteti i Shqipërisë.
+Fëmijët luajnë futboll në oborrin e shkollës.
+Nëna ime gatuan supë me perime të freskëta.
+Nesër në mëngjes do të shkojmë në det me miqtë.
+Ka rënë shi gjithë natën dhe rrugët janë të lagura.
+Vëllai im punon si mësues në një fshat të vogël.
+Në treg ka gjithmonë shumë njerëz të shtunën.
+Kam 21 libra dhe 15 € në çantë.
+Mbledhja do të bëhet më 3.5.2024 në Durrës.
+Çmimi i bukës është rritur me 10 %.
+Temperatura në majë të malit ra në -5 gradë.
+Dr. Hoxha dhe prof. Kola ishin në konferencë.
+Zyra ndodhet në rrugën e Durrësit nr. 12.
+Ajo punon në OKB dhe udhëton shpesh jashtë vendit.
+Na shkruani në info@shembull.al, ju lutem.
+Peshkatarët dolën në det para agimit.
+Gjyshja ime tregonte histori nga rinia e saj.
+Këto trëndafila të kuqe kanë një erë të mrekullueshme.
+Kënduam të gjithë bashkë rreth zjarrit.
+Udhëtimi për në Shkodër zgjati tre orë.
+Motra ime lexon me kënaqësi romane aventurash.
+Dielli perëndon pas kodrave.
+Dyqani shet fruta dhe perime të freskëta.
+Duhet ta mbrojmë natyrën dhe mjedisin.
+Avioni u ul në kohë në aeroport.
+Mjeku i tha të hante më pak sheqer.
+Mos harro ta mbyllësh derën kur të dalësh.
+Universiteti hapi një bibliotekë të re.
+Në kopsht ka një mollë dhe dy qershi.
+Sot është mjegull dhe qielli është plot me re.

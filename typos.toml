@@ -1,0 +1,245 @@
+# typos checks spelling in code and docs, in UK English. Every allowed word below says why it is
+# allowed.
+
+[default]
+locale = "en-gb"
+
+[default.extend-words]
+# Phonetics: a formant is a resonance of the vocal tract (and a kind of speech synthesiser).
+formant = "formant"
+# CMUdict's ARPAbet phone names (IY is the vowel of "fleece").
+iy = "iy"
+# Croatian "from", in a book title (docs/data-sources.md).
+iz = "iz"
+# The English suffix -ded (folded, landed), named in rules and tests.
+ded = "ded"
+# The English suffixes -ful and -ment, in the morphology rules.
+ful = "ful"
+ment = "ment"
+# The ordinal suffix of 2nd and 22nd.
+nd = "nd"
+# IPA in tests that reads like a word: jus is "use" (the noun).
+jus = "jus"
+# American spellings that jespersen must recognise, named as examples in the docs and tests.
+color = "color"
+airplane = "airplane"
+anemia = "anemia"
+catalog = "catalog"
+center = "center"
+defense = "defense"
+maneuver = "maneuver"
+mold = "mold"
+pajama = "pajama"
+plow = "plow"
+realize = "realize"
+skeptic = "skeptic"
+traveled = "traveled"
+kilometer = "kilometer"
+# Spelling fragments the British rules match: suffixes (-ises, -yse) and the stem advantag-.
+ises = "ises"
+yse = "yse"
+advantag = "advantag"
+# Mandarin syllables in pinyin, in the rules and tests: fo (佛), and ue, written for üe after n and l.
+fo = "fo"
+ue = "ue"
+# Spanish words in the Spanish crate's rules and docs (calle, the abbreviations profesor and aprox.).
+calle = "calle"
+doble = "doble"
+mis = "mis"
+tema = "tema"
+programa = "programa"
+profesor = "profesor"
+aprox = "aprox"
+fiel = "fiel"
+ser = "ser"
+# Italian words in the Italian crate's rules and docs (tre, the articles allo and alle).
+tre = "tre"
+allo = "allo"
+alle = "alle"
+# The Turkish present suffix -yor, named in the docs.
+yor = "yor"
+# French words named in the docs (fils, fille).
+fils = "fils"
+fille = "fille"
+
+[files]
+extend-exclude = [
+  "*.lock",
+  # The CC0 legal code, as Creative Commons publishes it.
+  "LICENSE",
+  # Other people's data, committed as published.
+  "data/upstream/",
+  # Public-domain books as written, in the parity text lists.
+  "crates/parity/texts/en-gb-holmes.txt",
+  "crates/parity/texts/en-us-sawyer.txt",
+  "crates/parity/texts/zh-luxun.txt",
+  "crates/parity/texts/es-galdos.txt",
+  "crates/parity/texts/es-419-quiroga.txt",
+  # Spanish sentences: jespersen's own list, the Spanish tests and data.
+  "crates/parity/texts/es.txt",
+  "crates/lang-es/tests/",
+  "crates/jespersen/tests/spanish.rs",
+  "data/es/",
+  # Italian sentences: jespersen's own list, Collodi, the Italian tests and data.
+  "crates/parity/texts/it.txt",
+  "crates/parity/texts/it-collodi.txt",
+  "crates/lang-it/tests/",
+  "crates/jespersen/tests/italian.rs",
+  "crates/jespersen/tests/german.rs",
+  "crates/jespersen/tests/dutch.rs",
+  "crates/jespersen/tests/hungarian.rs",
+  "crates/jespersen/tests/albanian.rs",
+  "crates/jespersen/tests/afrikaans.rs",
+  "crates/jespersen/tests/swedish.rs",
+  "crates/jespersen/tests/norwegian.rs",
+  "crates/jespersen/tests/welsh.rs",
+  "crates/jespersen/tests/danish.rs",
+  "crates/jespersen/tests/irish.rs",
+  "crates/jespersen/tests/malay.rs",
+  "crates/jespersen/tests/serbian.rs",
+  "crates/jespersen/tests/macedonian.rs",
+  "crates/jespersen/tests/somali.rs",
+  "crates/jespersen/tests/oromo.rs",
+  "crates/jespersen/tests/russian.rs",
+  "crates/jespersen/tests/latvian.rs",
+  "crates/jespersen/tests/estonian.rs",
+  "crates/jespersen/tests/lithuanian.rs",
+  "crates/jespersen/tests/icelandic.rs",
+  "data/it/",
+  # Finnish sentences and the Finnish crate (its words are Finnish throughout).
+  "crates/parity/texts/tr.txt",
+  "crates/lang-tr/",
+  "crates/parity/texts/id.txt",
+  "crates/lang-id/",
+  "crates/parity/texts/pl.txt",
+  "crates/parity/texts/pl-prus.txt",
+  "crates/lang-pl/",
+  "crates/parity/texts/pt.txt",
+  "crates/parity/texts/pt-eca.txt",
+  "crates/lang-pt/",
+  "data/pt/",
+  "crates/parity/texts/fr.txt",
+  "crates/parity/texts/fr-daudet.txt",
+  "data/fr/",
+  "crates/lang-fr/",
+  "crates/parity/texts/cs.txt",
+  "crates/parity/texts/cs-capek.txt",
+  "crates/lang-cs/",
+  "data/cs/",
+  "crates/parity/texts/sk.txt",
+  "crates/lang-sk/",
+  "data/sk/",
+  "crates/parity/texts/hr.txt",
+  "crates/lang-hr/",
+  "crates/parity/texts/sl.txt",
+  "crates/parity/texts/sl-jurcic.txt",
+  "crates/parity/texts/ro-slavici.txt",
+  "crates/parity/texts/ca-bertrana.txt",
+  "crates/parity/texts/de-kafka.txt",
+  "crates/parity/texts/nl-couperus.txt",
+  "crates/parity/texts/hu-gardonyi.txt",
+  "crates/parity/texts/af-wielligh.txt",
+  "crates/parity/texts/sv-lagerlof.txt",
+  "crates/parity/texts/nb-hamsun.txt",
+  "crates/parity/texts/cy-edwards.txt",
+  "crates/parity/texts/da-jacobsen.txt",
+  "crates/parity/texts/ga-ualaoghaire.txt",
+  "crates/parity/texts/et-kitzberg.txt",
+  "crates/lang-sl/",
+  "data/sl/",
+  "crates/parity/texts/eu.txt",
+  "crates/lang-eu/",
+  "crates/parity/texts/ro.txt",
+  "crates/lang-ro/",
+  "data/ro/",
+  "data/ca/",
+  "data/de/",
+  "data/nl/",
+  "data/af/",
+  "data/sv/",
+  "data/nb/",
+  "data/cy/",
+  "data/da/",
+  "data/derived/da/",
+  "data/ga/",
+  "data/ms/",
+  "data/ru/",
+  "crates/parity/texts/ca.txt",
+  "crates/lang-ca/",
+  "crates/parity/texts/de.txt",
+  "crates/lang-de/",
+  "crates/parity/texts/nl.txt",
+  "crates/lang-nl/",
+  "crates/parity/texts/hu.txt",
+  "crates/lang-hu/",
+  "crates/parity/texts/af.txt",
+  "crates/lang-af/",
+  "crates/parity/texts/lv.txt",
+  "crates/lang-lv/",
+  "data/lv/",
+  "data/lt/",
+  "crates/parity/texts/et.txt",
+  "crates/lang-et/",
+  "crates/parity/texts/sv.txt",
+  "crates/lang-sv/",
+  "crates/parity/texts/nb.txt",
+  "crates/lang-nb/",
+  "crates/parity/texts/sq.txt",
+  "crates/lang-sq/",
+  "crates/parity/texts/lt.txt",
+  "crates/lang-lt/",
+  "crates/parity/texts/cy.txt",
+  "crates/lang-cy/",
+  "crates/parity/texts/is.txt",
+  "crates/parity/texts/is-olafsson.txt",
+  "crates/lang-is/",
+  "crates/parity/texts/da.txt",
+  "crates/lang-da/",
+  "crates/parity/texts/ga.txt",
+  "crates/lang-ga/",
+  "crates/parity/texts/sw.txt",
+  "crates/lang-sw/",
+  "crates/parity/texts/el.txt",
+  "crates/lang-el/",
+  "crates/parity/texts/ms.txt",
+  "crates/lang-ms/",
+  "crates/parity/texts/sr.txt",
+  "crates/lang-sr/",
+  "crates/parity/texts/mk.txt",
+  "crates/lang-mk/",
+  "crates/parity/texts/so.txt",
+  "crates/lang-so/",
+  "crates/parity/texts/om.txt",
+  "crates/lang-om/",
+  "crates/parity/texts/ru.txt",
+  "crates/parity/texts/ru-dvizhenie.txt",
+  "crates/lang-ru/",
+  "crates/parity/texts/rw.txt",
+  "crates/lang-rw/",
+  "crates/parity/texts/rn.txt",
+  "crates/lang-rn/",
+  "crates/parity/texts/lg.txt",
+  "crates/lang-lg/",
+  "crates/parity/texts/ln.txt",
+  "crates/lang-ln/",
+  "crates/parity/texts/sn.txt",
+  "crates/lang-sn/",
+  "crates/parity/texts/yo.txt",
+  "crates/lang-yo/",
+  "crates/parity/texts/ig.txt",
+  "crates/lang-ig/",
+  "crates/parity/texts/ha.txt",
+  "crates/lang-ha/",
+  "crates/parity/texts/ee.txt",
+  "crates/lang-ee/",
+  "crates/parity/texts/ak.txt",
+  "crates/lang-ak/",
+  "crates/parity/texts/fi.txt",
+  "crates/parity/texts/fi-aho.txt",
+  "crates/lang-fi/",
+  "crates/jespersen/tests/finnish.rs",
+  # Data generated from it (letter contexts are not words).
+  "data/derived/",
+  # Mandarin syllables in pinyin, which are not English words.
+  "data/zh/",
+]

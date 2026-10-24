@@ -1,0 +1,37 @@
+# jespersen's own Lithuanian test sentences (CC0): spelling, long vowels, ė, y, ie, uo, the other
+# diphthongs, soft consonants, č, š, ž, dž, ch, numbers, dates, money, abbreviations and
+# initialisms.
+
+Katė miega ant kaimyno namo stogo.
+Labas rytas, kaip jums sekasi šiandien?
+Labai ačiū, man sekasi gerai.
+Vilnius yra Lietuvos sostinė.
+Vaikai žaidžia futbolą mokyklos kieme.
+Mama verda sriubą su šviežiomis daržovėmis.
+Rytoj mes su draugais važiuosime prie jūros.
+Visą naktį lijo, ir gatvės yra šlapios.
+Mano brolis dirba mokytoju mažame kaime.
+Turguje šeštadieniais visada būna daug žmonių.
+Turiu 21 knygą ir 15 € piniginėje.
+Susirinkimas vyks 2024-05-03 Kaune.
+Duonos kaina pakilo 10 %.
+Kalno viršūnėje temperatūra nukrito iki -5 laipsnių.
+Dr. Kazlauskas ir prof. Petraitis buvo konferencijoje.
+Biuras yra Gedimino prospekte, nr. 12.
+Ji dirba JT ir dažnai keliauja į užsienį.
+Rašykite mums adresu info@pavyzdys.lt, prašau.
+Žvejai išplaukė į jūrą prieš aušrą.
+Močiutė pasakojo istorijas apie savo jaunystę.
+Šios raudonos rožės nuostabiai kvepia.
+Mes kartu dainavome prie laužo.
+Kelionė į Klaipėdą truko tris valandas.
+Mano sesuo mėgsta skaityti įdomius romanus.
+Saulė leidžiasi už kalvų.
+Parduotuvė parduoda šviežius vaisius ir daržoves.
+Mes turime saugoti gamtą ir aplinką.
+Lėktuvas laiku nusileido oro uoste.
+Gydytojas jam pasakė valgyti mažiau cukraus.
+Nepamiršk užrakinti durų, kai išeisi.
+Universitetas atidarė naują biblioteką.
+Sode auga obelis ir dvi vyšnios.
+Šiandien rūkas, o dangus pilnas debesų.

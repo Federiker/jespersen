@@ -1,0 +1,36 @@
+# jespersen's own Slovenian test sentences (CC0): spelling, č, š, ž, lj and nj, l and v said u̯,
+# schwa, stress, numbers, dates, money, abbreviations and initialisms.
+
+Mačka sedi na strehi hiše in gleda ptice.
+Dober dan, kako ste?
+Hvala lepa, vse je v redu.
+Slovenija leži med Alpami in Jadranskim morjem.
+Otroci se igrajo z žogo na šolskem igrišču.
+Mama kuha zelenjavno juho za večerjo.
+Jutri zjutraj gremo na morje.
+Vso noč je deževalo in ulice so bile mokre.
+Moj brat dela kot učitelj v majhni vasi.
+Na trgu je ob sobotah vedno veliko ljudi.
+Imam 21 knjig in 15 € v denarnici.
+Sestanek bo 3.5.2024 v Ljubljani.
+Cena kruha se je letos zvišala za 10 %.
+Temperatura je padla na -5 stopinj na vrhu gore.
+Dr. Novak in prof. Kovač sta bila na konferenci.
+Pisarna je na ul. Prešernova št. 12.
+Dela v OZN in pogosto potuje v tujino.
+Pišite nam na info@primer.si, prosim.
+Ribiči so odpluli na morje pred zoro.
+Dedek je pripovedoval o svoji mladosti.
+Te rdeče vrtnice lepo dišijo.
+Peli smo skupaj ob ognju.
+Pot do Maribora je trajala tri ure.
+Moja sestra rada bere pustolovske knjige.
+Sonce zahaja za hribi.
+Trgovina prodaja sveže sadje in zelenjavo.
+Moramo varovati naravo in okolje.
+Letalo je pristalo v Kopru pravočasno.
+Babica sadi korenje na vrtu za hišo.
+Ne pozabi zapreti vrat, preden odideš.
+Univerza je dobila novo knjižnico.
+Pes je bil zelo vesel.
+Volk in polh sta živali.

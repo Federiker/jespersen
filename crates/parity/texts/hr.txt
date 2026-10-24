@@ -1,0 +1,36 @@
+# jespersen's own Croatian test sentences (CC0): spelling, č and ć, dž and đ, lj and nj, syllabic r,
+# stress, numbers, dates, money, abbreviations and initialisms.
+
+Mačka sjedi na krovu kuće i gleda ptice.
+Dobar dan, kako ste?
+Hvala lijepo, sve je u redu.
+Hrvatska leži na obali Jadranskog mora.
+Djeca se igraju loptom na školskom igralištu.
+Mama kuha juhu od povrća za večeru.
+Sutra ujutro idemo na more.
+Cijelu noć je padala kiša i ulice su bile mokre.
+Moj brat radi kao učitelj u malom selu.
+Na trgu je subotom uvijek puno ljudi.
+Imam 21 knjigu i 15 € u novčaniku.
+Sastanak će biti 3.5.2024 u Zagrebu.
+Cijena kruha porasla je za 10 % ove godine.
+Temperatura je pala na -5 stupnjeva na vrhu planine.
+Dr. Horvat i prof. Kovačić bili su na konferenciji.
+Ured se nalazi u Ilici br. 12.
+Radi u UN-u i često putuje u inozemstvo.
+Pišite nam na info@primjer.hr, molim.
+Ribari su isplovili na more prije zore.
+Djed je pričao o svojoj mladosti.
+Te crvene ruže lijepo mirišu.
+Pjevali smo zajedno uz vatru.
+Put do Splita trajao je četiri sata.
+Moja sestra voli čitati pustolovne knjige.
+Sunce zalazi iza brda.
+Trgovina prodaje svježe voće i povrće.
+Moramo čuvati prirodu i okoliš.
+Avion je sletio u Dubrovnik na vrijeme.
+Baka sadi mrkvu u vrtu iza kuće.
+Ne zaboravi zatvoriti vrata prije nego odeš.
+Sveučilište je dobilo novu knjižnicu.
+Džep mu je pun đumbira.
+Smrt i vrh su kratke riječi.

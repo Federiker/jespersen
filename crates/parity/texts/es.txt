@@ -1,0 +1,53 @@
+# jespersen's own Spanish test sentences (CC0): spelling, stress, diphthongs, function words,
+# numbers, dates, money, abbreviations and initialisms.
+
+El perro de Rosa come carne.
+La calle y el cielo, la caza y la casa.
+Había una vez un gato que bebía agua.
+Tengo veintiún años y mil doscientos euros.
+Don Quijote viajó a México con el señor García.
+Un beso en la mejilla y un vaso de vino.
+El kilómetro, el pingüino, la guerra, el huevo y el hielo.
+La ciudad estaba en silencio cuando llegó el tren.
+Mi abuela vive en Madrid y mis tíos en Buenos Aires.
+¿Cómo estás? ¡Qué bien que hayas venido!
+El niño juega con su perro en el jardín.
+Nos vemos mañana a las diez y media.
+Llueve mucho en el norte de España.
+Ella siempre lleva una flor amarilla en el pelo.
+El examen de historia fue muy difícil.
+Los ruiseñores cantan entre los árboles.
+Fuimos a la playa porque hacía calor.
+No sé dónde dejé las llaves del coche.
+Hoy es lunes, y el rey visita el país.
+La reina leyó el periódico en el jardín.
+El aire de la sierra es puro y frío.
+Quiero un café con leche, por favor.
+Tenemos 3 hijos y 2 perros.
+Nació el 12/10/1985 en Sevilla.
+El libro cuesta 25 € y el disco 12,50 €.
+El 50 % de los alumnos aprobó.
+Llegaron 1.500 personas al concierto.
+La temperatura bajó a -5 grados.
+Son las 8:30 de la mañana.
+Vivo en el 3.º piso y ella en el 2.º.
+El siglo XX trajo muchos cambios.
+Felipe II fue rey de España.
+La ONU y la OTAN se reunieron en los EE. UU.
+Compré un DVD y un CD en la tienda.
+El Dr. Pérez y la Sra. López llegaron tarde.
+Escribe a info@ejemplo.com antes del viernes.
+Construir una casa cuesta mucho dinero.
+El cuidado de los niños es importante.
+La viuda vivía cerca del río.
+Me gusta el chocolate y el queso.
+Los jóvenes bailaban en la plaza.
+Guillermo llegó en guagua desde el aeropuerto.
+El año dos mil veinticuatro fue bisiesto.
+Tiene la piel suave como la seda.
+La acción de la película ocurre en Oaxaca.
+El ingeniero construyó un puente enorme.
+Esto es lo que hay, y no hay más.
+Hubo un tiempo en que todo era distinto.
+La gente del pueblo salió a la calle.
+Cuando era joven quería ser médico.

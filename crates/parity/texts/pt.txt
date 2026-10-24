@@ -1,0 +1,36 @@
+# jespersen's own Portuguese test sentences (CC0): spelling, nasal vowels, stress and accents, open
+# and closed vowels, numbers, dates, money, abbreviations and initialisms.
+
+O gato está sentado no telhado da casa e olha para os pássaros.
+Bom dia, como você está?
+Muito obrigado, está tudo bem.
+O Brasil é um país muito grande na América do Sul.
+As crianças jogam futebol no pátio da escola.
+A mãe prepara uma sopa de legumes para o jantar.
+Amanhã de manhã vamos à praia com os nossos amigos.
+Choveu durante toda a noite e as ruas ficaram molhadas.
+O meu irmão trabalha como professor numa pequena aldeia.
+O mercado está sempre cheio de gente aos sábados.
+Tenho 21 livros e 15 € na carteira.
+A reunião será no dia 3/5/2024 em Lisboa.
+O preço do pão subiu 10% este ano.
+A temperatura desceu para -5 graus no alto da serra.
+O Dr. Silva e a Prof.ª Costa estiveram na conferência.
+O escritório fica na Av. da Liberdade, n.º 12.
+Ela trabalha na ONU e viaja muito para o estrangeiro.
+Escreva para info@exemplo.pt, por favor.
+Os pescadores saíram para o mar antes do amanhecer.
+O avô contou histórias da sua juventude.
+Estas rosas vermelhas cheiram muito bem.
+Cantámos juntos à volta da fogueira.
+A viagem até ao Porto demorou três horas.
+A minha irmã gosta de ler livros de aventuras.
+O sol põe-se atrás das montanhas.
+A loja vende fruta fresca e legumes.
+Temos de cuidar do ambiente e da natureza.
+O avião aterrou no aeroporto a horas.
+A avó planta cenouras no quintal atrás da casa.
+Não te esqueças de fechar a porta antes de sair.
+A universidade recebeu uma biblioteca nova.
+O exame foi fácil, mas o táxi chegou tarde.
+Eles querem que nós façamos o trabalho hoje.

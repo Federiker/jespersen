@@ -1,0 +1,37 @@
+# jespersen's own Norwegian Bokmål test sentences (CC0): spelling, long and short vowels, æ, ø, å,
+# ei, øy, au, the sj and kj sounds, soft g, rs, doubled consonants, numbers, dates, money,
+# abbreviations and initialisms.
+
+Katten sover på taket til naboens hus.
+God morgen, hvordan har du det i dag?
+Tusen takk, jeg har det veldig bra.
+Oslo er hovedstaden i Norge.
+Barna spiller fotball i skolegården.
+Moren min lager suppe med friske grønnsaker.
+I morgen reiser vi til sjøen med venner.
+Det har regnet hele natten, og gatene er våte.
+Broren min arbeider som lærer i en liten bygd.
+På torget er det alltid mange folk på lørdager.
+Jeg har 21 bøker og 15 € i vesken.
+Møtet holdes den 3.5.2024 i Bergen.
+Prisen på brød har steget med 10 %.
+Temperaturen på fjellet har sunket til -5 grader.
+Dr. Hansen og prof. Berg var på konferansen.
+Kontoret ligger i Storgata nr. 12.
+Hun jobber i FN og reiser ofte til utlandet.
+Skriv til oss på info@eksempel.no, takk.
+Fiskerne dro ut på havet før soloppgang.
+Bestemoren min fortalte historier fra ungdommen sin.
+Disse røde rosene dufter herlig.
+Vi sang sammen ved bålet.
+Reisen til Trondheim tok tre timer.
+Søsteren min leser gjerne spennende romaner.
+Solen går ned bak åsene.
+Butikken selger fersk frukt og grønnsaker.
+Vi må beskytte naturen og miljøet.
+Flyet landet presis på flyplassen.
+Legen sa at han burde spise mindre sukker.
+Ikke glem å lukke døren når du går.
+Universitetet har åpnet et nytt bibliotek.
+I hagen står et epletre og to kirsebærtrær.
+I dag er det tåke, og himmelen er full av skyer.

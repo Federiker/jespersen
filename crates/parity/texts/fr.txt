@@ -1,0 +1,36 @@
+# jespersen's own French test sentences (CC0): spelling, silent letters, nasal vowels, liaison, e
+# muet, elision, numbers, dates, money, abbreviations and initialisms.
+
+Le chat est assis sur le toit de la maison et regarde les oiseaux.
+Bonjour, comment allez-vous ?
+Merci beaucoup, tout va bien.
+La France est un grand pays d'Europe.
+Les enfants jouent au ballon dans la cour de l'école.
+Ma mère prépare une soupe de légumes pour le dîner.
+Demain matin, nous irons à la plage avec nos amis.
+Il a plu toute la nuit et les rues étaient mouillées.
+Mon frère travaille comme professeur dans un petit village.
+Le marché est toujours plein de monde le samedi.
+J'ai 21 livres et 15 € dans mon portefeuille.
+La réunion aura lieu le 3/5/2024 à Paris.
+Le prix du pain a augmenté de 10 % cette année.
+La température est descendue à -5 degrés au sommet de la montagne.
+M. Dupont et Mme Martin étaient à la conférence.
+Le bureau se trouve au 12, av. des Champs-Élysées.
+Elle travaille à l'ONU et voyage souvent à l'étranger.
+Écrivez à info@exemple.fr, s'il vous plaît.
+Les pêcheurs sont partis en mer avant l'aube.
+Mon grand-père racontait des histoires de sa jeunesse.
+Ces roses rouges sentent très bon.
+Nous avons chanté ensemble autour du feu.
+Le voyage jusqu'à Lyon a duré trois heures.
+Ma sœur aime lire des romans d'aventure.
+Le soleil se couche derrière les collines.
+Le magasin vend des fruits et des légumes frais.
+Nous devons protéger la nature et l'environnement.
+L'avion a atterri à l'heure à l'aéroport.
+Ma grand-mère plante des carottes dans le jardin.
+N'oublie pas de fermer la porte avant de partir.
+L'université a reçu une nouvelle bibliothèque.
+Il est huit heures et quart, les autres sont déjà arrivés.
+Ils ont vu six enfants et deux hommes au fond du parc.

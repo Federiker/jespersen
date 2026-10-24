@@ -1,0 +1,37 @@
+# jespersen's own Catalan test sentences (CC0): spelling, accents, open and closed e and o, vowel
+# reduction, ll, ny, l·l, ix, tx, tg, final r, t and p, elision, numbers, dates, money,
+# abbreviations and initialisms.
+
+El gat dorm a la teulada de la casa del costat.
+Bon dia, com estàs avui?
+Moltes gràcies, tot va molt bé.
+Barcelona és a la costa del mar Mediterrani.
+Els nens juguen a pilota al pati de l'escola.
+La mare prepara una sopa de verdures per sopar.
+Demà al matí anirem a la platja amb els amics.
+Ha plogut tota la nit i els carrers són molls.
+El meu germà treballa de mestre en un poble petit.
+A la plaça hi ha sempre molta gent els dissabtes.
+Tinc 21 llibres i 15 € a la cartera.
+La reunió serà el 3.5.2024 a Girona.
+El preu del pa ha pujat un 10 % aquest any.
+La temperatura ha baixat a -5 graus al cim de la muntanya.
+El Dr. Puig i la Sra. Vidal eren a la conferència.
+L'oficina és al carrer Major, núm. 12.
+Treballa a l'ONU i viatja sovint a l'estranger.
+Escriviu-nos a info@exemple.cat, si us plau.
+Els pescadors van sortir al mar abans de l'alba.
+L'àvia explicava històries de quan era jove.
+Aquestes roses vermelles fan molt bona olor.
+Vam cantar tots junts al voltant del foc.
+El viatge fins a Lleida va durar tres hores.
+La meva germana llegeix novel·les d'aventures amb gust.
+El sol es pon darrere dels turons.
+La botiga ven fruita i verdura fresca.
+Hem de protegir la natura i el medi ambient.
+L'avió ha aterrat puntualment a l'aeroport.
+El metge li va dir que mengés menys sucre.
+No t'oblidis de tancar la porta quan surtis.
+La universitat ha obert una biblioteca nova.
+Al jardí hi ha un taronger i dues pomeres.
+Fa un dia rúfol i el cel és ple de núvols.

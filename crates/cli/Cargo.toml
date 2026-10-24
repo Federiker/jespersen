@@ -1,0 +1,18 @@
+[package]
+name = "jespersen_cli"
+description = "The jespersen command, a thin front end to the jespersen library"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "jespersen"
+path = "src/main.rs"
+
+[dependencies]
+jespersen.workspace = true
+
+[lints]
+workspace = true

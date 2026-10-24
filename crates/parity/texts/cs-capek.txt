@@ -1,0 +1,304 @@
+# Karel Čapek, R.U.R. (1920): the prologue, from Project Gutenberg eBook #13083 without its
+# header, footer, cast list or the speakers' names; the first 300 sentences, one per line
+# (jespersen-parity sentences cs). Public domain: published in 1920, the author died in 1938.
+
+Ústřední kancelář továrny Rossum s Universal Robots.
+Vpravo vchod.
+Okny v průčelní stěně pohled na nekonečné řady továrních budov.
+Vlevo další ředitelské místnosti.
+(sedí u velikého amerického psacího stolu v otáčecím křesle.
+Na stole žárovka, telefon, těžítka, pořadač dopisů, atd., na stěně vlevo veliké mapy s lodními a železničními liniemi, veliký kalendář, hodiny, jež ukazují něco málo před polednem; na stěně vpravo tištěné plakáty: "Nejlacinější práce: Rossumovi Roboti" "Tropičtí Roboti, nový vynález.
+Kus 150 d."
+"Každý si kup svého Robota!"
+"Chcete zlevnit svoje výrobky?
+Objednejte si Rossumovy Roboty."
+Dále jiné mapy, dopravní lodní řád, tabulka s telegrafickými záznamy kursů atd. V kontrastu k této výzdobě stěn je na zemi nádherný turecký koberec, vpravo kulatý stůl, pohovka, kožená klubovní křesla a knihovna, v níž místo knih stojí láhve s vínem a kořalkami.
+Vlevo pokladna.
+Vedle Dominova stolu psací stroj, na němž píše dívka Sulla.)
+(diktuje) " – že neručíme za zboží poškozené dopravou.
+Upozornili jsme vašeho kapitána hned při nakládání, že loď je nezpůsobilá k dopravě Robotů, takže zkáza nákladu nepadá na náš účet.
+Znamenáme se – za Rossum s Universal Robots – " Hotovo?
+Ano.
+Nový list.
+Friedrichswerke, Hamburk. – Datum. – "Potvrzujeme objednávku patnáct tisíc Robotů – " (zazvoní domácí telefon.
+Domin jej zvedne a mluví do něho) Haló – Zde centrální – ano. – Zajisté.
+Ale ano, jako vždycky. – Ovšem, kabelujte jim. – Dobrá – (zavěsí telefon) Kde jsem přestal?
+Potvrzujeme objednávku na patnáct tisíc R.
+(zamyšleně) Patnáct tisíc R.
+Patnáct tisíc R.
+(vstoupí) Pane řediteli, nějaká dáma prosí –
+Kdo?
+Nevím.
+Podává vizitku.
+(čte) Prezident Glory. – Že prosím.
+(otevře dveře) Račte, paní.
+(vejde Helena Gloryová.
+Marius odejde)
+(vstane) Račte.
+Pan centrální ředitel Domin?
+Prosím.
+Jdi k vám –
+Domin: – s lístkem prezidenta Gloryho.
+To stačí.
+Prezident Glory je můj otec.
+Jsem Helena Gloryová.
+Slečno Gloryová, je pro nás neobyčejnou ctí, že – že –
+Helena: – že vám nemůžeme ukázat dveře.
+Domin: – že smíme pozdravit dceru velkého prezidenta.
+Prosím, posaďte se.
+Sullo, můžete odejít.
+(Sulla odejde)
+(usedne) Čím mohu posloužit, slečno Gloryová?
+Já jsem přijela –
+Domin: – podívat se na naši tovární výrobu lidí.
+Jako všechny návštěvy.
+Prosím, beze všeho.
+Myslela jsem, že je zakázáno –
+Domin: – vstoupit do továrny, ovšem.
+Jenže každý sem přijde s něčí vizitkou, slečno Gloryová.
+A vy ukážete každému ... ?
+Jen něco.
+Výroba umělých lidí, slečno, je tovární tajemství.
+Proč mne nenecháte domluvit?
+Prosím za prominutí.
+Chtěla jste snad říci něco jiného?
+Chtěla jsem se jen zeptat –
+Domin: – zda bych vám zcela výjimečně neukázal naši továrnu.
+Ale zajisté, slečno Gloryová.
+Jak víte, že jsem se na to chtěla ptát?
+Všichni se ptají stejně.
+Vstane.
+Ze zvláštní úcty, slečno, vám ukážeme víc než jiným a – jedním slovem –
+Děkuji vám.
+Zavážete-li se, že nikomu neprozradíte ani to nejmenší –
+(vstane a podává mu ruku) Mé čestné slovo.
+Děkuji.
+Nechtěla byste snad sejmout závoj?
+Ach ovšem, vy chcete vidět – Promiňte.
+Prosím?
+Kdybyste mi pustil ruku.
+(pustí) Prosím za prominutí.
+(snímá závoj) Chcete vidět, nejsem-li vyzvědač.
+Jak jste opatrní.
+(pozoruje ji nadšeně) Hm – ovšem – my – tak jest.
+Vy mi nedůvěřujete?
+Neobyčejně, slečno hele – pardon, slečno Gloryová.
+Vskutku neobyčejně potěšen – Měla jste dobrou plavbu?
+Ano.
+Proč –
+Protože – míním totiž – že jste ještě velmi mladá.
+Půjdeme hned do továrny?
+Ano.
+Myslím dvaadvacet, ne?
+Dvaadvacet čeho?
+Let.
+Jedenadvacet.
+Proč to chcete vědět?
+Protože – poněvadž – (s nadšením) Zdržíte se déle, že ano?
+Podle toho, co mi ukážete z výroby.
+Čertova výroba!
+Ale zajisté, slečno Gloryová, všechno uvidíte.
+Prosím, posaďte se.
+Zajímala by vás historie vynálezu?
+Ano, prosím vás. (usedne)
+Tak tedy. (sedne si na psací stůl, pozoruje Helenu uchvácen a odříkává rychle) Bylo to roku 1920 kdy se starý Rossum veliký filozof ale tehdy ještě mladý učenec odebral na tento daleký ostrov aby studoval mořské živočišstvo tečka.
+Přitom se pokoušel napodobit chemickou syntézou živou hmotu řečenou protoplazma až najednou objevil látku která se chovala naprosto jako živá hmota ač byla jiného chemického složení to bylo roku 1932, právě čtyři sta čtyřicet let po objevení Ameriky, uf.
+To umíte zpaměti?
+Ano; fyziologie, slečno Gloryová, není mým řemeslem.
+Tak dál?
+Třeba.
+(slavnostně) A tehdy, slečno, starý Rossum napsal mezi své chemické vzorce tohleto: "Příroda našla jeden způsob, jak organizovat živou hmotu.
+Je však jiný způsob, jednodušší, tvárnější a rychlejší, na nějž příroda vůbec nenarazila.
+Tuto druhou cestu, po které se mohl brát vývoj života, jsem dnešního dne objevil."
+Představte si, slečno, že tahle veliká slova psal nad chrchlem jakéhosi koloidálního rosolu, který by ani pes nesežral.
+Představte si ho, že sedí nad zkumavkou a myslí na to, jak z ní vyroste celý strom života, jak z ní budou vycházet všechna zvířata, počínajíc vířníkem a končíc – končíc samotným člověkem.
+Člověk z jiné látky, než jsme my.
+Slečno Gloryová, to byl ohromný okamžik.
+Tak dál.
+Dál?
+Teď šlo o to, dostat život ze zkumavky ven a zrychlit vývoj a utvořit nějaké ty orgány, kosti a nervy a kdesi cosi a nalézt jakési takové látky, katalyzátory, enzymy, hormóny a tak dále, zkrátka, rozumíte tomu?
+N – n – nevím.
+Myslím, že jen málo.
+Já docela nic.
+Víte, pomocí těch vodiček mohl dělat, co chtěl.
+Mohl třeba dostat medúzu se sokratovským mozkem nebo žížalu padesát metrů dlouhou.
+Ale protože neměl kousku humoru, vzal si do hlavy, že udělá normálního obratlovce nebo snad člověka.
+A tak se do toho pustil.
+Do čeho?
+Do napodobení přírody.
+Nejdřív zkusil udělat umělého psa.
+Stálo ho to řadu let, vyšlo z toho cosi jako zakrnělé tele a pošlo to za pár dní.
+Ukážu vám to v muzeu.
+A pak už se dal starý Rossum do vytváření člověka.
+(Pauza)
+A to nesmím nikomu prozradit?
+Nikomu na světě.
+Škoda, že už je to ve všech čítankách.
+Škoda.
+Seskočí ze stolu a usedne vedle Heleny.
+Ale víte, co v čítankách není?
+Ťuká si na čelo.
+Že byl starý Rossum úžasný blázen.
+Vážně, slečno Gloryová, ale tohle nechte pro sebe.
+Ten starý výstředník chtěl opravdu dělat lidi.
+Ale vždyť vy děláte lidi!
+Přibližně, slečno Heleno.
+Ale starý Rossum to mínil doslovně.
+Víte, chtěl jaksi vědecky sesadit Boha.
+Byl strašlivý materialista, a proto to všechno dělal.
+Nešlo mu o nic víc než podat důkaz, že nebylo žádného Pánaboha zapotřebí.
+Proto si umanul udělat člověka navlas, jako jsme my.
+Znáte trochu anatomii?
+Jen – docela málo.
+Já také.
+Představte si, že si vzal do hlavy vyrobit všechno do poslední žlázy jako v lidském těle.
+Slepé střevo, mandle, pupek, samé zbytečnosti.
+Dokonce i – hm – i pohlavní žlázy.
+Ale ty přece – ty přece –
+Domin: – nejsou zbytečné, já vím.
+Ale mají-li se lidé uměle vyrábět, pak není – hm – nijak třeba –
+Rozumím.
+Ukážu vám v muzeu, co spackal za deset let dohromady.
+Měl to být muž, žilo to celé tři dny.
+Starý Rossum neměl trochy vkusu.
+Bylo to hrozné.
+Bylo to hrozné, co udělal.
+Ale mělo to uvnitř všechno, co má člověk.
+Skutečně, úžasně piplavá práce.
+A tehdy sem přišel inženýr Rossum, synovec starého.
+Geniální hlava, slečno Gloryová.
+Jak uviděl, co tropí starý, řekl: "To je nesmysl, vyrábět člověka deset let.
+Nebudeš-li ho vyrábět rychleji než příroda, pak na ten celý krám nakašlat."
+A pustil se sám do anatomie.
+V čítankách je to jinak.
+(vstane) V čítankách je placená reklama a ostatně nesmysl.
+Stojí tam například, že Roboty vynalezl starý pán.
+Zatím e starý pán hodil na univerzitu, ale o tovární výrobě neměl ponětí.
+Myslel, že udělá skutečné lidi, tedy snad nějaké nové Indiány, docenty nebo idioty, víte?
+A teprve mladý Rossum měl nápad udělat z toho živé a inteligentní pracovní stroje.
+Co je v čítankách o spolupráci obou velikých Rossumů, je povídačka.
+Ti dva se ukrutně hádali.
+Starý ateista neměl drobet pochopení pro industrii, a konečně ho mladý zavřel do nějaké laboratoře, aby se tam piplal se svými velikými potraty, a začal to vyprávět sám, po inženýrsku.
+Starý Rossum ho doslovně proklel a do své smrti usmolil ještě dvě fyziologické obludy, až ho nakonec našli v laboratoři mrtvého.
+To je celá historie.
+A co tedy mladý?
+Mladý Rossum, slečno, to byl nový věk.
+Věk výroby po věku poznání.
+Když si okoukl anatomii člověka, viděl hned, že je to příliš složité a že by to dobrý inženýr udělal jednodušeji.
+Začal tedy předělávat anatomii a zkoušel, co se dá vynechat nebo zjednodušit – Zkrátka, slečno Gloryová, nenudí vás to?
+Ne, naopak, je to hrozně zajímavé.
+Tak tedy mladý Rossum si řekl: Člověk, to je něco, co dejme tomu cítí radost, hraje na housle, chce jít na procházku a vůbec potřebuje dělat spoustu věcí, které – které jsou vlastně zbytečné.
+Oho!
+Počkejte.
+Které jsou zbytečné, když má třeba tkát nebo sčítat.
+Naftový motor nemá mít třapce a ornamenty, slečno Gloryová.
+A vyrábět umělé dělníky je stejné jako vyrábět naftové motory.
+Výroba má být co nejjednodušší a výrobek prakticky nejlepší.
+Co myslíte, jaký dělník je prakticky nejlepší?
+Nejlepší?
+Snad ten, který – který – Když je poctivý – a oddaný.
+Ne, ale ten nejlacinější.
+Ten, který má nejmíň potřeb.
+Mladý Rossum vynalezl dělníka s nejmenším počtem potřeb.
+Musel ho zjednodušit.
+Vyhodil všechno, co neslouží přímo práci.
+Tím vlastně vyhodil člověka a udělal Robota.
+Drahá slečno Gloryová, Roboti nejsou lidé.
+Jsou mechanicky dokonalejší než my, mají úžasnou rozumovou inteligenci, ale nemají duši.
+Ó, slečno Gloryová, výrobek inženýra je technicky vytříbenější než výrobek přírody.
+Říká se, že člověk je výrobek boží.
+Tím hůř.
+Bůh neměl ani ponětí o moderní technice.
+Věřila byste, že si nebožtík mladý Rossum zahrál na Boha?
+Jak, prosím vás?
+Začal vyrábět Nadroboty.
+Pracovní obry.
+Zkusil to s postavami čtyřmetrovými, ale to byste nevěřila, jak se ti mamuti lámali.
+Lámali?
+Ano.
+Z ničeho nic jim praskla noha nebo něco.
+Naše planeta je patrně trochu malá pro obry.
+Teď děláme jen Roboty přirozené velikosti a velmi slušné lidské úpravy.
+Viděla jsem první Roboty u nás.
+Obec je koupila ... chci říci vzala do práce –
+Koupila, drahá slečno.
+Roboti se kupují.
+Helena: – získala jako metaře.
+Viděla jsem je mést.
+Jsou tak divní, tak tiší.
+Viděla jste mou písařku?
+Nevšimla jsem si.
+(zvoní) Víte, akciová továrna Rossumových Univerzálních Robotů dosud nevyrábí jednotné zboží.
+Máme jemnější a hrubší Roboty.
+Ti lepší budou snad žít dvacet let.
+Pak hynou?
+Ano, opotřebují se.
+(vstoupí Sulla)
+Sullo, ukažte se slečně Gloryové.
+(vstane a podává jí ruku) Těší mne.
+Je vám asi hrozně smutno tak daleko od světa, viďte?
+To neznám, slečno Gloryová.
+Račte usednout, prosím.
+(usedne) Odkud jste, slečno?
+Odtud, z továrny.
+Ach, vy jste se narodila tady?
+Ano, byla jsem tu udělána.
+(vyskočí) Cože?
+(směje se) Sulla není člověk, slečno, Sulla je Robot.
+Prosím za odpuštění –
+(položí ruku Sulle na rameno) Sulla se nehněvá.
+Podívejte se, slečno Gloryová, jakou děláme pleť.
+Sáhněte jí na tvář.
+Oh, ne, ne!
+Nepoznala byste, že je z jiné látky než my.
+Prosím, má i typické chmýří blondýnek.
+Jen oči jsou drobátko – Ale zato vlasy!
+Obraťte se, Sullo!
+Přestaňte už!
+Pohovořte s hostem, Sullo.
+Je to vzácná návštěva.
+Prosím, slečno, posaďte se. (obě usednou) Měla jste dobrou plavbu?
+Ano – za – zajisté.
+Nevracejte se po Amélii, Slečno Gloryová.
+Barometr silně klesá, na 705.
+Počkejte na Pensylvánii, to je velmi dobrá, velmi silná loď.
+Kolik?
+Dvacet uzlů za hodinu.
+Tonáž dvanáct tisíc.
+(směje se) Dost, Sullo, dost.
+Ukažte nám, jak umíte francouzsky.
+Vy umíte francouzsky?
+Umím čtyři jazyky.
+Píši Dear Sir!
+Monsieur!
+Geehrter Herr!
+Ctěný pane!
+(vyskočí) To je humbuk!
+Vy jste šarlatán!
+Sulla není Robot, Sulla je děvče jako já!
+Sullo, to je hanebné – proč hrajete takovou komedii?
+Já jsem Robot.
+ne, ne, vy lžete!
+Oh, Sullo, odpusťte, já vím – donutili vás, abyste jim dělala reklamu!
+Sullo, vy jste děvče jako já, že?
+Řekněte!
+Lituji, slečno Gloryová.
+Sulla je Robot.
+Vy lžete!
+(vztyčí se) Jakže? – (zazvoní) Promiňte, slečno, pak vás musím přesvědčit.
+(vejde Marius)
+Marie, doveďte Sullu do pitevny, aby ji otevřeli.
+Rychle!
+Kam?
+Do pitevny.
+Až jí rozříznou, půjdete se na ní podívat.
+Nepůjdu.
+Pardon, mluvila jste o lži.
+Vy ji chcete dát zabít?
+Stroje se nezabíjejí.
+(obejme Sullu) Nebojte se, Sullo, já vás nedám!
+Řekněte, drahoušku, jsou k vám všichni tak suroví?
+To se nesmíte dát líbit, slyšíte?
+Nesmíte, Sullo!
+Já jsem Robot.
+To je jedno.

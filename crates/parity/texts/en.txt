@@ -1,0 +1,58 @@
+# English texts for the local comparison (crates/parity). Written for jespersen
+# and dedicated to the public domain under CC0 with the rest of the
+# repository. One text per line; no line breaks inside a text.
+
+# Everyday sentences.
+The weather was cold and grey all morning.
+She opened the window and listened to the rain.
+We walked along the river until the light began to fade.
+Could you pass me the salt, please?
+I think the train leaves at a quarter past nine.
+They bought fresh bread, cheese and a bottle of water.
+The children laughed when the dog chased its own tail.
+He forgot his umbrella again, so he waited under the bridge.
+Please close the door quietly behind you.
+My brother lives in a small house near the sea.
+
+# Narrative prose.
+The old lighthouse keeper climbed the stairs one last time.
+Nobody in the village remembered who had planted the orchard.
+At dawn the fishermen pulled their boats onto the sand.
+She read the letter twice, then folded it and put it away.
+The road wound through the hills like a ribbon of dust.
+A single candle burned on the table beside the empty chair.
+He promised himself that he would never return to that city.
+The library smelled of paper, leather and forgotten afternoons.
+They argued about the map until the sun had nearly set.
+Somewhere beyond the forest, a bell began to ring.
+
+# Questions and exclamations.
+Where did you put the keys?
+What a wonderful surprise!
+Have you ever seen anything so beautiful?
+Why would anyone build a house on such a steep hill?
+Stop right there!
+
+# Words that test vowels, stress and flapping.
+The butter is better than the margarine.
+Water the garden after the party.
+A little bottle of metal polish sat on the ladder.
+Photography and photographic memory are related.
+The record shows that they record every meeting.
+Understanding the nature of language takes patience.
+Electricity, economics and history are difficult subjects.
+The comfortable chair was in the laboratory.
+Thirty dirty birds turned over the earth.
+
+# Function words and contractions.
+I can't believe it isn't ready yet.
+You'd better ask her if she's coming with us.
+It was the best of all the things that we had.
+There are some of them in the box over there.
+What do you want to do with it?
+
+# Names and places.
+Mr. Smith met Dr. Jones in London.
+The Mississippi River flows into the Gulf of Mexico.
+Elizabeth and Margaret travelled to Edinburgh.
+Our neighbours in Chicago have a garden.

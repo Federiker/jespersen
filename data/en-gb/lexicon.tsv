@@ -1,0 +1,60 @@
+# jespersen's own British English entries, dedicated to the public domain (CC0)
+# with the rest of the repository: words whose British form the rules cannot
+# derive from the American one. Written as the American phonemes (ARPAbet with
+# stress digits) that the British rules turn into the British form: a spelt-a
+# AA becomes PALM, a spelt-o AA LOT, AA R START. One line per pronunciation:
+# word<TAB>phonemes. Each group says why.
+
+# Different vowels or consonants.
+aluminium	AE2 L Y UW0 M IH1 N IY0 AH0 M
+clerk	K L AA1 R K
+derby	D AA1 R B IY0
+either	AY1 DH ER0
+garage	G AE1 R IH0 JH
+herb	HH ER1 B
+leisure	L EH1 ZH ER0
+lieutenant	L EH0 F T EH1 N AH0 N T
+neither	N AY1 DH ER0
+privacy	P R IH1 V AH0 S IY0
+route	R UW1 T
+schedule	SH EH1 D Y UW0 L
+tomato	T AH0 M AA1 T OW0
+vase	V AA1 Z
+vitamin	V IH1 T AH0 M IH0 N
+yoghurt	Y AA1 G ER0 T
+yogurt	Y AA1 G ER0 T
+zebra	Z EH1 B R AH0
+been	B IY1 N
+
+# -ile with PRICE.
+fragile	F R AE1 JH AY0 L
+hostile	HH AA1 S T AY0 L
+missile	M IH1 S AY0 L
+mobile	M OW1 B AY0 L
+
+# Stress on another syllable.
+advertisement	AH0 D V ER1 T IH0 S M AH0 N T
+ballet	B AE1 L EY0
+laboratory	L AH0 B AA1 R AH0 T R IY0
+process	P R OW1 S EH0 S
+
+# LOT before r and a vowel, where American has NORTH.
+florist	F L AA1 R AH0 S T
+foreign	F AA1 R AH0 N
+forest	F AA1 R AH0 S T
+horrible	HH AA1 R AH0 B AH0 L
+moral	M AA1 R AH0 L
+orange	AA1 R IH0 N JH
+origin	AA1 R AH0 JH AH0 N
+
+# PALM, not BATH, as eSpeak NG's British voice and most accents say them.
+calf	K AA1 F
+calves	K AA1 V Z
+can't	K AA1 N T
+half	HH AA1 F
+halves	HH AA1 V Z
+shan't	SH AA1 N T
+
+# LOT where the spelling ough says THOUGHT elsewhere (bought).
+cough	K AA1 F
+trough	T R AA1 F

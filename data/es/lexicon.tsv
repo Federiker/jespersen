@@ -1,0 +1,12 @@
+# jespersen's own Spanish exceptions (CC0): words the spelling rules read wrongly, each respelt as it
+# is said, in Spanish spelling with its accent. One per line: the word in lower case, a tab, its
+# respelling, a tab, why.
+méxico	méjico	The x is the old spelling of j
+mexicano	mejicano	The x is the old spelling of j
+mexicana	mejicana	The x is the old spelling of j
+mexicanos	mejicanos	The x is the old spelling of j
+mexicanas	mejicanas	The x is the old spelling of j
+oaxaca	oajaca	The x is the old spelling of j
+texas	tejas	The x is the old spelling of j
+xavier	javier	The x is the old spelling of j
+ximena	jimena	The x is the old spelling of j

@@ -1,0 +1,20 @@
+# jespersen's own Dutch word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. An acute accent marks a stress the
+# rules would put elsewhere (waarom → waaróm), a grave one an unstressed e said in full
+# (duizend → duizènd).
+alleen	alléen
+anderen	ánderen
+bladeren	bláderen
+duizend	duizènd
+eieren	éieren
+europa	európa
+gisteren	gísteren
+goederen	góederen
+kinderen	kínderen
+liederen	líederen
+milieu	miljéu
+misschien	misschíen
+romans	románs
+terug	terúg
+vandaag	vandáag
+waarom	waaróm

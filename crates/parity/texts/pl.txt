@@ -1,0 +1,37 @@
+# jespersen's own Polish test sentences (CC0): spelling, digraphs, voicing, nasal vowels, stress,
+# numbers, dates, money, abbreviations and initialisms.
+
+Kot siedzi na dachu domu i patrzy na ptaki.
+Dzień dobry, jak się masz?
+Dziękuję bardzo, wszystko w porządku.
+Polska jest dużym krajem w środku Europy.
+Dzieci grają w piłkę na szkolnym boisku.
+Mama gotuje zupę pomidorową na obiad.
+Jutro rano pojedziemy nad morze.
+Przez całą noc padał deszcz.
+Mój brat pracuje jako nauczyciel w małej wsi.
+Na rynku zawsze jest dużo ludzi w sobotę.
+Mam 21 książek i 15 zł w portfelu.
+Spotkanie odbędzie się 3.05.2024 w Warszawie.
+Ceny chleba wzrosły o 10% w tym roku.
+Temperatura spadła do -5 stopni na szczycie góry.
+Dr Kowalski i prof. Nowak byli na konferencji.
+Biuro mieści się przy ul. Długiej 12.
+Pracuje w ONZ i często wyjeżdża za granicę.
+Proszę napisać na adres info@przyklad.pl.
+Rybacy wypłynęli w morze przed świtem.
+Dziadek opowiadał o swojej młodości.
+Te czerwone róże pięknie pachną.
+Śpiewaliśmy razem piosenki przy ognisku.
+Podróż do Krakowa trwała osiem godzin.
+Moja siostra lubi czytać książki przygodowe.
+Słońce zachodzi za górami.
+Sklep sprzedaje świeże owoce i warzywa.
+Musimy dbać o czystość środowiska.
+Samolot wylądował w Gdańsku punktualnie.
+Babcia sadzi marchew w ogrodzie za domem.
+Nie zapomnij zamknąć drzwi przed snem.
+Uniwersytet otrzymał nową bibliotekę.
+Chrząszcz brzmi w trzcinie.
+Żółw i źrebię piją wodę z rzeki.
+Gramatyka języka polskiego nie jest łatwa.

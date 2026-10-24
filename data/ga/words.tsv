@@ -1,0 +1,41 @@
+# jespersen's own Irish word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. A ˈ marks a stress the rules
+# would put elsewhere (amach → aˈmach).
+#
+# Irish is read as Munster says it (decision 45), checked against M.-L. Sjoestedt's Phonétique
+# d'un parler irlandais de Kerry (1931) and Description d'un parler irlandais de Kerry (1938),
+# both public domain, used for their facts.
+#
+# Adverbs once compounded with a proclitic keep the stress on their second part (Phonétique,
+# § 260: isteach, istigh, anois, inniu; Description, §§ 90–91: amuigh, amach, abhaile, anall,
+# abhus, anoir, aniar).
+amach	aˈmach
+isteach	isˈteach
+anois	aˈnois
+anseo	anˈseo
+ansin	anˈsin
+ansiúd	anˈsiúd
+arís	aˈrís
+inniu	iˈnniu
+inné	iˈnné
+anocht	aˈnocht
+abhaile	aˈbhaile
+aniar	aˈniar
+anoir	aˈnoir
+istigh	isˈtigh
+amuigh	aˈmú
+anuas	aˈnuas
+anall	aˈnall
+anonn	aˈnonn
+aneas	aˈneas
+abhus	aˈbhus
+# The forms of ag stressed on their second syllable (Description, § 107: acu əku, aige iˈgʹe,
+# aici iˈkʹi).
+acu	aˈcu
+aige	aˈge
+aici	aˈci
+# air erʹ (Description, § 108); is with a broad s (is maith, is é); raibh revʹ (Description,
+# § 180). ag (eg, § 107) and ar (er, broad, § 108) are given in src/sentence.rs.
+is	ios
+raibh	reibh
+air	eir

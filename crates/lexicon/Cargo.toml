@@ -1,0 +1,11 @@
+[package]
+name = "jespersen_lexicon"
+description = "Compact lexicons, compiled by build scripts and searched in place"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[lints]
+workspace = true

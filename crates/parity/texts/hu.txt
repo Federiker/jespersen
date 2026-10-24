@@ -1,0 +1,36 @@
+# jespersen's own Hungarian test sentences (CC0): spelling, long and short vowels, digraphs, doubled
+# consonants, j after t, d and l, numbers, dates, money, abbreviations and initialisms.
+
+A macska a szomszéd házának a tetején alszik.
+Jó reggelt, hogy van ma?
+Köszönöm szépen, nagyon jól vagyok.
+Budapest Magyarország fővárosa.
+A gyerekek az iskola udvarán fociznak.
+Anyám friss zöldséggel főz levest.
+Holnap reggel a barátainkkal a tóhoz megyünk.
+Egész éjjel esett, és az utcák vizesek.
+A bátyám tanárként dolgozik egy kis faluban.
+A piacon szombatonként mindig sok ember van.
+21 könyvem és 15 € van a táskámban.
+Az ülés 2024. május 3-án lesz Debrecenben.
+A kenyér ára 10 %-kal nőtt.
+A hegy tetején a hőmérséklet -5 fokra csökkent.
+Dr. Kovács és prof. Nagy a konferencián voltak.
+Az iroda a Petőfi utca 12. szám alatt van.
+Az ENSZ-nél dolgozik, és gyakran utazik külföldre.
+Írjon nekünk az info@pelda.hu címre, kérem.
+A halászok hajnal előtt kimentek a tengerre.
+A nagymamám a fiatalságáról mesélt.
+Ezek a piros rózsák csodálatos illatúak.
+Együtt énekeltünk a tűz mellett.
+Az út Szegedig három óráig tartott.
+A húgom szívesen olvas izgalmas regényeket.
+A nap lemegy a dombok mögött.
+A bolt friss gyümölcsöt és zöldséget árul.
+Védenünk kell a természetet és a környezetet.
+A repülőgép pontosan leszállt a repülőtéren.
+Az orvos azt mondta neki, hogy egyen kevesebb cukrot.
+Ne felejtsd el bezárni az ajtót, amikor elmész.
+Az egyetem új könyvtárat nyitott.
+A kertben egy almafa és két cseresznyefa áll.
+Ma ködös az idő, és az ég tele van felhőkkel.

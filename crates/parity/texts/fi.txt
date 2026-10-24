@@ -1,0 +1,33 @@
+# jespersen's own Finnish test sentences (CC0): spelling, long sounds, diphthongs, stress, numbers,
+# dates, money, abbreviations and initialisms.
+
+Kissa istuu talon katolla ja katselee lintuja.
+Hyvää huomenta, mitä kuuluu?
+Suomi on kaunis maa, jossa on tuhansia järviä.
+Kengät ovat eteisessä ja takki on naulakossa.
+Aurinko paistaa ja linnut laulavat puistossa.
+Yöllä tie oli liukas ja kylmä.
+Pohjoismaiden yhteistyö on tärkeää kaikille.
+Minulla on 21 omenaa ja 1250 euroa.
+Hän syntyi 3.5.1985 Tampereella.
+Kahvi maksaa 3,50 € ja tee 2 €.
+Noin 50 % suomalaisista asuu kaupungeissa.
+Lämpötila laski -15 asteeseen.
+Juna lähtee klo 8 ja saapuu Helsinkiin aamulla.
+Esim. Jyväskylä ja Oulu ovat suuria kaupunkeja.
+Hän työskentelee YK:ssa ja EU:ssa.
+Lähetä viesti osoitteeseen info@esimerkki.fi.
+Lapset leikkivät pihalla koko päivän.
+Isoäiti leipoi pullaa ja keitti kahvia.
+Talvella järvet jäätyvät ja maa on valkoinen.
+Kesällä aurinko ei laske ollenkaan Lapissa.
+Opiskelijat lukevat kirjastossa tenttiin.
+Hän osti uuden polkupyörän ja ajoi kotiin.
+Metsässä kasvaa mäntyjä, kuusia ja koivuja.
+Mökillä on sauna ja pieni laituri.
+Kerro minulle tarina vanhoista ajoista.
+Huomenna sataa lunta koko maassa.
+Kaupassa myydään leipää, maitoa ja juustoa.
+Lentokone laskeutui myöhään illalla.
+Vanha mies kalasti joella yksinään.
+Tämä kirja on erittäin mielenkiintoinen.

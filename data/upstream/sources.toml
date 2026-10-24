@@ -1,0 +1,116 @@
+# Upstream language data, committed byte for byte as published (docs/decisions.md, decision 21).
+# Each file's SHA-256 is that of the committed bytes; .gitattributes keeps Git from changing line
+# endings here. Licences and provenance: docs/data-sources.md.
+
+[cmudict]
+licence = "BSD-2-Clause-like (data/upstream/cmudict/LICENSE)"
+repository = "https://github.com/cmusphinx/cmudict"
+commit = "74790861f652b15e4ac49015a90074ad62a27690"
+committed_upstream = "2025-10-24"
+downloaded = "2026-10-23"
+url = "https://raw.githubusercontent.com/cmusphinx/cmudict/74790861f652b15e4ac49015a90074ad62a27690/{file}"
+
+[cmudict.files]
+"cmudict.dict" = "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22"
+"LICENSE" = "bd4ce8e44170a5f9f481310ca85c51de3c4f851a65e679b40e603b143bd3542a"
+"README" = "00c34e7564f1f6a68de02e12c123d801471da92bc3091f7d89b605f238bf8554"
+
+[moby]
+licence = "Public domain by grant from the author, January 2001 (data/upstream/moby/3205.txt)"
+work = "Moby Pronunciator II by Grady Ward, Project Gutenberg eBook #3205"
+# gutenberg.org refused connections on the day; this is a mirror of its collection.
+downloaded = "2026-10-23"
+url = "https://atlas-group.cs.brown.edu/data/gutenberg/3/2/0/3205/{file}"
+
+[moby.files]
+# Upstream path files/mpron.txt.
+"mpron.txt" = "55580c3b258873723fed33497fe3a438b26167370bbe016431b3fc65fea67f2d"
+"3205.txt" = "875589958ba1a80ab7cd3d0e7d0130fa7a968d47c4cefa19d63cbfcd58ce49a7"
+
+[ipa-dict]
+licence = "MIT (data/upstream/ipa-dict/LICENSE); its Mandarin data credits Unihan (Unicode License), KFCD Pinyin and 開放漢語詞典 (CC BY 3.0)"
+repository = "https://github.com/open-dict-data/ipa-dict"
+commit = "972cd67dd5f96bc5660e28070cde26e3928abcd7"
+committed_upstream = "2026-10-22"
+downloaded = "2026-10-23"
+url = "https://raw.githubusercontent.com/open-dict-data/ipa-dict/972cd67dd5f96bc5660e28070cde26e3928abcd7/{file}"
+
+[ipa-dict.files]
+# Upstream paths data/zh_hans.txt and data/zh_hant.txt.
+"zh_hans.txt" = "10fe876988e576daddc2eafefebc0c0da1f3680c143ceaa564453785ca2b4ae3"
+"zh_hant.txt" = "c323d1041162c1390e6bc334c34863cb24cd3713bd002bd3ee683ba2eeab6d2e"
+"LICENSE" = "2c6a7e4c71f834a8fc0114fa4f65ca85e80bc4b4dc7ed08746963a09a7b0d177"
+"README.md" = "7251a8159f6d1d1a981ae5e79e616e3c7181950c1b6023042a727056a47e87a0"
+
+[kfcd-pinyin]
+licence = "CC BY 3.0 (data/upstream/kfcd-pinyin/LICENSE), © 開放詞典 (kaifangcidian.com)"
+repository = "https://github.com/kfcd/pinyin"
+commit = "6a439be4321160a8f251b7eb0f7b28b0b956da3b"
+committed_upstream = "2021-03-24"
+downloaded = "2026-10-23"
+url = "https://raw.githubusercontent.com/kfcd/pinyin/6a439be4321160a8f251b7eb0f7b28b0b956da3b/{file}"
+
+[kfcd-pinyin.files]
+"pinyinbiao" = "e02e337df50bfce2096aea5611ea1adcfc85072d242b393ab8ee68282c4ecf1f"
+"LICENSE" = "243ce65e3a5a24669b08b5b6d25e82e961dfc747f841f04f199126a218968100"
+"README.md" = "4d346073a1dd45dececfff51009daee8f685214f2d3c108c642f56e593d6bc6b"
+
+[unihan]
+licence = "Unicode License v3 (data/upstream/unihan/LICENSE)"
+# Not committed (47 MB unpacked): perkins-unihan-zh derives data/derived/zh/characters.tsv from
+# Unihan_Readings.txt in this archive (`mise run zh:characters`). Only the licence is committed.
+version = "Unicode 18.0.0 (Unihan_Readings.txt dated 2026-07-31)"
+downloaded = "2026-10-23"
+archive = "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+archive_sha256 = "4c93ea9c1f636451729a840978f1667a53886af37ba854fdcce109721c63d43e"
+
+[unihan.files]
+# https://www.unicode.org/license.txt
+"LICENSE" = "e7a93b009565cfce55919a381437ac4db883e9da2126fa28b91d12732bc53d96"
+
+[kfcd-hyzd]
+licence = "CC BY 3.0 (data/upstream/kfcd-hyzd/LICENSE), © 開放詞典 (kaifangcidian.com)"
+work = "開放漢語字典: each character's readings with example words"
+repository = "https://github.com/kfcd/hyzd"
+commit = "04987755b16264636c01d28df4d96fa14dadd210"
+committed_upstream = "2020-10-31"
+downloaded = "2026-10-23"
+url = "https://raw.githubusercontent.com/kfcd/hyzd/04987755b16264636c01d28df4d96fa14dadd210/{file}"
+
+[kfcd-hyzd.files]
+"hyzd.txt" = "df0eea95706daac4c57999ca60fa2cf3faba0b7654dc801eaa584afef1ae3348"
+"LICENSE" = "243ce65e3a5a24669b08b5b6d25e82e961dfc747f841f04f199126a218968100"
+"README.md" = "658017f77708d7ca1dfaf2a5fbb01b39f7f996ba2c8fbc86cc930a772ff6fb9e"
+
+[kfcd-fanjian]
+licence = "CC BY 3.0 (data/upstream/kfcd-fanjian/LICENSE), © 開放詞典 (kaifangcidian.com)"
+work = "繁簡體字轉換表: Traditional characters and their Simplified forms"
+repository = "https://github.com/kfcd/fanjian"
+commit = "62a67c235e13e1d38ba4b4b25477832c74ae49ae"
+committed_upstream = "2025-09-08"
+downloaded = "2026-10-23"
+url = "https://raw.githubusercontent.com/kfcd/fanjian/62a67c235e13e1d38ba4b4b25477832c74ae49ae/{file}"
+
+[kfcd-fanjian.files]
+"fanjian.txt" = "ba95994112e80329d1dee52b5f7aaf6100079701bb22d5751b596c3bbd7a93d9"
+"LICENSE" = "ce09d794f68720c42dc75c1b9dd3c7d3c9268e3db57f03cd5b3d926fe2e2dd1c"
+"README.md" = "863aced8899aa4029eba94816bce29edcb72901ea294e0c95176c7cf188a8b84"
+
+[nst-da]
+licence = "CC0 1.0 (catalogue: https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-26/), Nasjonalbiblioteket"
+work = "NST's Danish pronunciation lexicon (Nordisk Språkteknologi, dan030224NST.pron), Språkbanken sbr-26"
+# Not committed (35 MB unpacked): perkins-nst derives data/derived/da/nst.tsv from
+# dan030224NST.pron in this archive (`mise run data:nst:da`). The archive has no licence file.
+downloaded = "2026-10-24"
+archive = "https://www.nb.no/sbfil/leksikalske_databaser/leksikon/da_leksikon.tar.gz"
+archive_sha256 = "c54a27fa45ea0773bc05ecdfd362044f59e7a9538d142e71b245b81e1bd40102"
+
+[nst-sv]
+licence = "CC0 1.0 (catalogue: https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-22/), Nasjonalbiblioteket"
+work = "NST's Swedish pronunciation lexicon (Nordisk Språkteknologi, swe030224NST.pron), Språkbanken sbr-22"
+# Not committed (185 MB unpacked): perkins-nst derives data/derived/sv/nst.tsv from
+# swe030224NST.pron in this archive (`mise run data:nst:sv`), keeping NST's own entries only
+# (decision 42). The archive has no licence file.
+downloaded = "2026-10-24"
+archive = "https://www.nb.no/sbfil/leksikalske_databaser/leksikon/sv.leksikon.tar.gz"
+archive_sha256 = "4cfd9d86891a9f057f28ead716a1e0c08faefc754aaaae23db615360a561848b"

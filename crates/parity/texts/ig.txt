@@ -1,0 +1,36 @@
+# jespersen's own Igbo test sentences (CC0): dotted vowels, the digraphs, syllabic m and n, tone
+# marks precomposed and combining, numbers, dates, money, abbreviations and initialisms.
+
+Ndewo, nna anyị.
+Nwata ahụ na-agụ akwụkwọ n'okpuru osisi.
+Nne m gara ahịa ụnyaahụ.
+Anyị riri nri ụtọ n'ụlọ ha.
+Chineke kere ụwa na ihe niile dị n'ime ya.
+Ụmụaka na-egwu egwu n'ezi.
+Achọrọ m ịmụ asụsụ Igbo nke ọma.
+Ụlọ akwụkwọ anyị buru ibu ma maa mma.
+Ụzọ ahụ dị anya nke ukwuu.
+Nwanne m nwoke bi n'Enugu.
+Ị riela nri?
+Ọ dịghị ihe ọjọọ dị na ya.
+Onye ọrụ ugbo ahụ kụrụ ji na ọka.
+Mmiri ozuzo malitere n'ụtụtụ.
+Ha bụrụ abụ, ha gbakwara egwu ruo n'abalị.
+Nkịta ojii dina n'ọnụ ụzọ.
+Akwụkwọ a bụ nke onye nkuzi anyị.
+Enyi m zụtara uwe uhie n'ahịa.
+O nwere ụmụ atọ.
+N'afọ 2024 ka ha wuru ụlọ ahụ.
+Ọ bịara na 3/5/2024.
+Ọnụahịa ya bụ ₦1500.
+Ihe dị ka 25% nke ndị mmadụ bịara.
+Dr. Okeke si Onitsha bịa.
+Prof. Achebe dere akwụkwọ abụọ.
+Ụlọ ọrụ ahụ dị n'okporo ụzọ 12.
+Ụmụ akwụkwọ 45 dere ule ahụ.
+Ụgbọ ala ahụ hapụrụ n'elekere asatọ.
+Biko, nye m mmiri.
+Gọọmentị ekwuputala afọ ọhụrụ.
+Ọ degaara enyi ya akwụkwọ ozi n'Abuja.
+Ha zụtara ụgbọ ala na ₦250000.
+Daalụ nke ukwuu, ka ọ dị.

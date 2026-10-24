@@ -1,0 +1,12 @@
+# jespersen's own American English entries, dedicated to the public domain (CC0)
+# with the rest of the repository. Each replaces CMUdict's entries for its word.
+# One line per pronunciation, most common first: word<TAB>ARPAbet phonemes with
+# CMUdict's stress digits. Add a word only with a reason in a comment above it.
+
+# The common two-syllable form first.
+every	EH1 V R IY0
+every	EH1 V ER0 IY0
+# The plural's s is voiced, as in house (verb); CMUdict has only s.
+houses	HH AW1 Z IH0 Z
+# CMUdict has d and secondary stress on the last syllable.
+thirty	TH ER1 T IY0

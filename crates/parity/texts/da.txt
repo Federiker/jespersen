@@ -1,0 +1,37 @@
+# jespersen's own Danish test sentences (CC0): spelling, long and short vowels, æ, ø, å, the soft d,
+# g and v after a vowel, r after a vowel, -er and -et, numbers, dates, money, abbreviations and
+# initialisms.
+
+Katten sover på taget af naboens hus.
+Godmorgen, hvordan har du det i dag?
+Mange tak, jeg har det rigtig godt.
+København er Danmarks hovedstad.
+Børnene spiller fodbold i skolegården.
+Min mor laver suppe med friske grøntsager.
+I morgen tager vi til stranden med vores venner.
+Det har regnet hele natten, og gaderne er våde.
+Min bror arbejder som lærer i en lille by.
+På torvet er der altid mange mennesker om lørdagen.
+Jeg har 21 bøger og 15 € i tasken.
+Mødet holdes den 3.5.2024 i Aarhus.
+Prisen på brød er steget med 10 %.
+Temperaturen på bjerget er faldet til -5 grader.
+Dr. Hansen og prof. Nielsen var til konferencen.
+Kontoret ligger på Strøget nr. 12.
+Hun arbejder for FN og rejser ofte til udlandet.
+Skriv til os på info@eksempel.dk, tak.
+Fiskerne tog ud på havet før solopgang.
+Min mormor fortalte historier fra sin ungdom.
+Disse røde roser dufter dejligt.
+Vi sang sammen ved bålet.
+Turen til Odense tog tre timer.
+Min søster læser gerne spændende romaner.
+Solen går ned bag bakkerne.
+Butikken sælger frisk frugt og grøntsager.
+Vi skal passe på naturen og miljøet.
+Flyet landede til tiden i lufthavnen.
+Lægen sagde, at han skulle spise mindre sukker.
+Glem ikke at lukke døren, når du går.
+Universitetet har åbnet et nyt bibliotek.
+I haven står et æbletræ og to kirsebærtræer.
+I dag er det tåget, og himlen er fuld af skyer.

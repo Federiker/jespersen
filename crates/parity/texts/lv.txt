@@ -1,0 +1,36 @@
+# jespersen's own Latvian test sentences (CC0): spelling, long vowels, o and uo, open and closed e,
+# ie, the palatals, č, š, ž, dz, dž, numbers, dates, money, abbreviations and initialisms.
+
+Kaķis guļ uz kaimiņu mājas jumta.
+Labrīt, kā jums šodien klājas?
+Paldies, man iet ļoti labi.
+Rīga ir Latvijas galvaspilsēta.
+Bērni spēlē futbolu skolas pagalmā.
+Mana māte vāra zupu no svaigiem dārzeņiem.
+Rīt no rīta mēs ar draugiem brauksim uz jūru.
+Visu nakti lija lietus, un ielas ir slapjas.
+Mans brālis strādā par skolotāju mazā ciematā.
+Tirgū sestdienās vienmēr ir daudz cilvēku.
+Man ir 21 grāmata un 15 € makā.
+Sanāksme notiks 3.5.2024 Liepājā.
+Maizes cena ir pieaugusi par 10 %.
+Kalna virsotnē temperatūra nokritās līdz -5 grādiem.
+Dr. Ozols un prof. Bērziņš bija konferencē.
+Birojs atrodas Brīvības ielā 12.
+Viņa strādā ANO un bieži ceļo uz ārzemēm.
+Rakstiet mums uz info@piemers.lv, lūdzu.
+Zvejnieki izbrauca jūrā pirms rītausmas.
+Vecmāmiņa stāstīja par savu jaunību.
+Šīs sarkanās rozes smaržo brīnišķīgi.
+Mēs kopā dziedājām pie ugunskura.
+Ceļš līdz Daugavpilij ilga trīs stundas.
+Mana māsa labprāt lasa aizraujošus romānus.
+Saule noriet aiz pakalniem.
+Veikals pārdod svaigus augļus un dārzeņus.
+Mums jāsargā daba un vide.
+Lidmašīna laikā nolaidās lidostā.
+Ārsts viņam teica, lai ēd mazāk cukura.
+Neaizmirsti aizslēgt durvis, kad aizej.
+Universitāte atvēra jaunu bibliotēku.
+Dārzā aug ābele un divi ķirši.
+Šodien ir miglains laiks, un debesis ir mākoņainas.

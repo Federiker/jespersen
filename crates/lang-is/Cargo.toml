@@ -1,0 +1,16 @@
+[package]
+name = "jespersen_lang_is"
+description = "Icelandic: spelling rules, numbers and reading"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+jespersen_phonemes.workspace = true
+jespersen_spoken.workspace = true
+jespersen_text.workspace = true
+
+[lints]
+workspace = true

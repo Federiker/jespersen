@@ -1,0 +1,48 @@
+# cargo-deny: licences, bans, sources and security advisories for the Rust dependencies.
+# `mise run audit` runs every check; CI runs licences, bans and sources on every push and the
+# advisories weekly. Language data (lexicons, rules) is not a crate: its sources and licences are
+# checked by hand and listed in docs/data-sources.md.
+
+[advisories]
+# Unmaintained crates count only when a jespersen crate depends on them directly.
+unmaintained = "workspace"
+yanked = "warn"
+# Each ignored advisory needs its id and the reason, e.g.
+# { id = "RUSTSEC-0000-0000", reason = "..." },
+ignore = []
+
+[licenses]
+# Permissive licences only (owner decision, 23 October 2026): jespersen is CC0 and is linked into
+# closed-source programs, so no copyleft, weak or strong. A dependency under any other licence
+# fails until the owner approves it here.
+allow = [
+  "0BSD",
+  "Apache-2.0",
+  "Apache-2.0 WITH LLVM-exception",
+  "BSD-2-Clause",
+  "BSD-3-Clause",
+  "BSL-1.0",
+  "CC0-1.0",
+  "ISC",
+  "MIT",
+  "MIT-0",
+  "Unicode-3.0",
+  "Unlicense",
+  "Zlib",
+]
+confidence-threshold = 0.93
+
+[licenses.private]
+# jespersen's own crates (`publish = false`).
+ignore = true
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"
+# The workspace's own crates are path dependencies.
+allow-wildcard-paths = true
+
+[sources]
+unknown-registry = "deny"
+unknown-git = "deny"
+allow-registry = ["https://github.com/rust-lang/crates.io-index"]

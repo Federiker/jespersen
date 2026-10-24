@@ -1,0 +1,37 @@
+# jespersen's own Welsh test sentences (CC0): spelling, y and u, w as a vowel and a glide, the
+# diphthongs, ch, dd, ff, ll, rh, th, vowel length, mutations, numbers, dates, money,
+# abbreviations and initialisms.
+
+Mae'r gath yn cysgu ar do tŷ'r cymydog.
+Bore da, sut wyt ti heddiw?
+Diolch yn fawr, rydw i'n dda iawn.
+Caerdydd yw prifddinas Cymru.
+Mae'r plant yn chwarae pêl-droed ar iard yr ysgol.
+Mae fy mam yn gwneud cawl gyda llysiau ffres.
+Yfory rydyn ni'n mynd i'r môr gyda ffrindiau.
+Mae hi wedi bwrw glaw drwy'r nos ac mae'r strydoedd yn wlyb.
+Mae fy mrawd yn gweithio fel athro mewn pentref bach.
+Mae llawer o bobl yn y farchnad bob dydd Sadwrn.
+Mae gen i 21 o lyfrau a 15 € yn fy mag.
+Bydd y cyfarfod ar 3.5.2024 yn Abertawe.
+Mae pris bara wedi codi 10 %.
+Mae'r tymheredd ar ben y mynydd wedi gostwng i -5 gradd.
+Roedd Dr. Jones a'r Athro Evans yn y gynhadledd.
+Mae'r swyddfa ar Stryd Fawr rhif 12.
+Mae hi'n gweithio i'r Cenhedloedd Unedig ac yn teithio'n aml dramor.
+Ysgrifennwch atom ni yn info@enghraifft.cymru, os gwelwch yn dda.
+Aeth y pysgotwyr allan i'r môr cyn y wawr.
+Roedd fy nain yn adrodd straeon am ei hieuenctid.
+Mae'r rhosynnau coch hyn yn arogli'n hyfryd.
+Fe ganon ni gyda'n gilydd wrth y tân.
+Cymerodd y daith i Fangor dair awr.
+Mae fy chwaer yn hoffi darllen nofelau cyffrous.
+Mae'r haul yn machlud y tu ôl i'r bryniau.
+Mae'r siop yn gwerthu ffrwythau a llysiau ffres.
+Rhaid i ni amddiffyn natur a'r amgylchedd.
+Glaniodd yr awyren yn brydlon yn y maes awyr.
+Dywedodd y meddyg wrtho am fwyta llai o siwgr.
+Peidiwch ag anghofio cau'r drws pan fyddwch chi'n gadael.
+Mae'r brifysgol wedi agor llyfrgell newydd.
+Yn yr ardd mae coeden afalau a dwy goeden geirios.
+Mae hi'n niwlog heddiw ac mae'r awyr yn llawn cymylau.

@@ -1,0 +1,33 @@
+# jespersen's own Turkish test sentences (CC0): spelling, vowel harmony, stress, suffixes, numbers,
+# dates, money, abbreviations and initialisms.
+
+Kedi evin çatısında oturuyor ve kuşlara bakıyor.
+Günaydın, nasılsınız?
+Teşekkür ederim, ben de iyiyim.
+Türkiye güzel bir ülke ve İstanbul çok büyük bir şehir.
+Yağmur yağıyor, dağlar bulutlarla kaplı.
+Öğretmen öğrencilere yeni bir kitap verdi.
+Bu akşam annemle birlikte yemek yapacağız.
+Çocuklar bahçede top oynuyorlar.
+Yarın sabah erkenden Ankara'ya gideceğim.
+Kahvaltıda peynir, zeytin ve domates yedik.
+Deniz kenarında uzun bir yürüyüş yaptık.
+Kardeşim üniversitede tıp okuyor.
+Bu kitabı okudun mu?
+Eski köprünün yanında küçük bir kahve var.
+Kış geldi ve her yer karla kaplandı.
+Ben 21 yaşındayım ve 1250 lira biriktirdim.
+Toplantı 3.5.2024 tarihinde yapılacak.
+Fiyatlarda %50 indirim var.
+Bilet 25 € ve otel 300 $ tuttu.
+Hava sıcaklığı -5 dereceye düştü.
+Dr. Yılmaz ve Prof. Demir toplantıya katıldılar.
+NATO ve TBMM hakkında bir haber okudum.
+Bize info@ornek.com adresinden yazabilirsiniz.
+İzmir'de denize girdik ve balık yedik.
+Babam her sabah gazete okur.
+Kapıyı kapatmayı unutma lütfen.
+Bu şarkıyı çok seviyorum.
+Kütüphanede sessizce ders çalışıyorlar.
+Yolculuk sırasında güzel manzaralar gördük.
+Annem bahçede çiçek yetiştiriyor.

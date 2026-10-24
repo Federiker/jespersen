@@ -1,0 +1,119 @@
+[package]
+name = "jespersen"
+description = "Text to phonemes: the library programs depend on"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+jespersen_lang_en = { workspace = true, optional = true }
+jespersen_lang_es = { workspace = true, optional = true }
+jespersen_lang_fi = { workspace = true, optional = true }
+jespersen_lang_it = { workspace = true, optional = true }
+jespersen_lang_om = { workspace = true, optional = true }
+jespersen_lang_so = { workspace = true, optional = true }
+jespersen_lang_sn = { workspace = true, optional = true }
+jespersen_lang_ln = { workspace = true, optional = true }
+jespersen_lang_lg = { workspace = true, optional = true }
+jespersen_lang_rn = { workspace = true, optional = true }
+jespersen_lang_rw = { workspace = true, optional = true }
+jespersen_lang_ak = { workspace = true, optional = true }
+jespersen_lang_ee = { workspace = true, optional = true }
+jespersen_lang_ha = { workspace = true, optional = true }
+jespersen_lang_ig = { workspace = true, optional = true }
+jespersen_lang_yo = { workspace = true, optional = true }
+jespersen_lang_el = { workspace = true, optional = true }
+jespersen_lang_sw = { workspace = true, optional = true }
+jespersen_lang_mk = { workspace = true, optional = true }
+jespersen_lang_sr = { workspace = true, optional = true }
+jespersen_lang_ms = { workspace = true, optional = true }
+jespersen_lang_ru = { workspace = true, optional = true }
+jespersen_lang_ga = { workspace = true, optional = true }
+jespersen_lang_cy = { workspace = true, optional = true }
+jespersen_lang_is = { workspace = true, optional = true }
+jespersen_lang_da = { workspace = true, optional = true }
+jespersen_lang_nb = { workspace = true, optional = true }
+jespersen_lang_sv = { workspace = true, optional = true }
+jespersen_lang_sq = { workspace = true, optional = true }
+jespersen_lang_lt = { workspace = true, optional = true }
+jespersen_lang_af = { workspace = true, optional = true }
+jespersen_lang_lv = { workspace = true, optional = true }
+jespersen_lang_et = { workspace = true, optional = true }
+jespersen_lang_hu = { workspace = true, optional = true }
+jespersen_lang_nl = { workspace = true, optional = true }
+jespersen_lang_de = { workspace = true, optional = true }
+jespersen_lang_ca = { workspace = true, optional = true }
+jespersen_lang_ro = { workspace = true, optional = true }
+jespersen_lang_eu = { workspace = true, optional = true }
+jespersen_lang_sl = { workspace = true, optional = true }
+jespersen_lang_hr = { workspace = true, optional = true }
+jespersen_lang_sk = { workspace = true, optional = true }
+jespersen_lang_cs = { workspace = true, optional = true }
+jespersen_lang_fr = { workspace = true, optional = true }
+jespersen_lang_pl = { workspace = true, optional = true }
+jespersen_lang_pt = { workspace = true, optional = true }
+jespersen_lang_id = { workspace = true, optional = true }
+jespersen_lang_tr = { workspace = true, optional = true }
+jespersen_lang_zh = { workspace = true, optional = true }
+jespersen_lexicon.workspace = true
+jespersen_phonemes.workspace = true
+jespersen_spoken = { workspace = true, optional = true }
+jespersen_text.workspace = true
+
+[features]
+# One feature per language (docs/decisions.md, decision 11).
+default = ["af", "ak", "ca", "cs", "cy", "da", "de", "ee", "el", "en", "es", "et", "eu", "fi", "fr", "ga", "ha", "hr", "hu", "id", "ig", "is", "it", "lg", "ln", "lt", "lv", "mk", "ms", "nb", "nl", "om", "pl", "pt", "rn", "ro", "ru", "rw", "sk", "sl", "sn", "so", "sq", "sr", "sv", "sw", "tr", "yo", "zh"]
+en = ["dep:jespersen_lang_en"]
+es = ["dep:jespersen_lang_es", "dep:jespersen_spoken"]
+fi = ["dep:jespersen_lang_fi", "dep:jespersen_spoken"]
+it = ["dep:jespersen_lang_it", "dep:jespersen_spoken"]
+om = ["dep:jespersen_lang_om", "dep:jespersen_spoken"]
+so = ["dep:jespersen_lang_so", "dep:jespersen_spoken"]
+sn = ["dep:jespersen_lang_sn", "dep:jespersen_spoken"]
+ln = ["dep:jespersen_lang_ln", "dep:jespersen_spoken"]
+lg = ["dep:jespersen_lang_lg", "dep:jespersen_spoken"]
+rn = ["dep:jespersen_lang_rn", "dep:jespersen_spoken"]
+rw = ["dep:jespersen_lang_rw", "dep:jespersen_spoken"]
+ak = ["dep:jespersen_lang_ak", "dep:jespersen_spoken"]
+ee = ["dep:jespersen_lang_ee", "dep:jespersen_spoken"]
+ha = ["dep:jespersen_lang_ha", "dep:jespersen_spoken"]
+ig = ["dep:jespersen_lang_ig", "dep:jespersen_spoken"]
+yo = ["dep:jespersen_lang_yo", "dep:jespersen_spoken"]
+el = ["dep:jespersen_lang_el", "dep:jespersen_spoken"]
+sw = ["dep:jespersen_lang_sw", "dep:jespersen_spoken"]
+mk = ["dep:jespersen_lang_mk", "dep:jespersen_spoken"]
+sr = ["dep:jespersen_lang_sr", "dep:jespersen_spoken"]
+ms = ["dep:jespersen_lang_ms", "dep:jespersen_spoken"]
+ru = ["dep:jespersen_lang_ru", "dep:jespersen_spoken"]
+ga = ["dep:jespersen_lang_ga", "dep:jespersen_spoken"]
+cy = ["dep:jespersen_lang_cy", "dep:jespersen_spoken"]
+is = ["dep:jespersen_lang_is", "dep:jespersen_spoken"]
+da = ["dep:jespersen_lang_da", "dep:jespersen_spoken"]
+nb = ["dep:jespersen_lang_nb", "dep:jespersen_spoken"]
+sv = ["dep:jespersen_lang_sv", "dep:jespersen_spoken"]
+sq = ["dep:jespersen_lang_sq", "dep:jespersen_spoken"]
+lt = ["dep:jespersen_lang_lt", "dep:jespersen_spoken"]
+af = ["dep:jespersen_lang_af", "dep:jespersen_spoken"]
+lv = ["dep:jespersen_lang_lv", "dep:jespersen_spoken"]
+et = ["dep:jespersen_lang_et", "dep:jespersen_spoken"]
+hu = ["dep:jespersen_lang_hu", "dep:jespersen_spoken"]
+nl = ["dep:jespersen_lang_nl", "dep:jespersen_spoken"]
+de = ["dep:jespersen_lang_de", "dep:jespersen_spoken"]
+ca = ["dep:jespersen_lang_ca", "dep:jespersen_spoken"]
+ro = ["dep:jespersen_lang_ro", "dep:jespersen_spoken"]
+eu = ["dep:jespersen_lang_eu", "dep:jespersen_spoken"]
+sl = ["dep:jespersen_lang_sl", "dep:jespersen_spoken"]
+hr = ["dep:jespersen_lang_hr", "dep:jespersen_spoken"]
+sk = ["dep:jespersen_lang_sk", "dep:jespersen_spoken"]
+cs = ["dep:jespersen_lang_cs", "dep:jespersen_spoken"]
+fr = ["dep:jespersen_lang_fr", "dep:jespersen_spoken"]
+pl = ["dep:jespersen_lang_pl", "dep:jespersen_spoken"]
+pt = ["dep:jespersen_lang_pt", "dep:jespersen_spoken"]
+id = ["dep:jespersen_lang_id", "dep:jespersen_spoken"]
+tr = ["dep:jespersen_lang_tr", "dep:jespersen_spoken"]
+zh = ["dep:jespersen_lang_zh"]
+
+[lints]
+workspace = true

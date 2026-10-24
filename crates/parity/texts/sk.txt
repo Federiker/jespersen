@@ -1,0 +1,36 @@
+# jespersen's own Slovak test sentences (CC0): spelling, long vowels and diphthongs, ä, ľ, soft
+# consonants, voicing, syllabic r and l, stress, numbers, dates, money, abbreviations.
+
+Mačka sedí na streche domu a pozerá sa na vtáky.
+Dobrý deň, ako sa máte?
+Ďakujem pekne, všetko je v poriadku.
+Slovensko leží v strednej Európe.
+Deti sa hrajú s loptou na školskom ihrisku.
+Mama varí na večeru zeleninovú polievku.
+Zajtra ráno pôjdeme k moru.
+Celú noc pršalo a ulice boli mokré.
+Môj brat pracuje ako učiteľ v malej dedine.
+Na námestí je v sobotu vždy veľa ľudí.
+Mám 21 kníh a 15 € v peňaženke.
+Stretnutie bude 3.5.2024 v Bratislave.
+Cena chleba tento rok stúpla o 10 %.
+Teplota klesla na vrchole hory na -5 stupňov.
+Dr. Novák a prof. Kováč boli na konferencii.
+Kancelária je na ul. Hlavná č. 12.
+Pracuje v OSN a často cestuje do zahraničia.
+Napíšte nám na info@priklad.sk, prosím.
+Rybári vyplávali na more pred svitaním.
+Dedko rozprával o svojej mladosti.
+Tie červené ruže krásne voňajú.
+Spievali sme spolu pri ohni.
+Cesta do Košíc trvala tri hodiny.
+Moja sestra rada číta dobrodružné knihy.
+Slnko zapadá za kopce.
+Obchod predáva čerstvé ovocie a zeleninu.
+Musíme chrániť prírodu a životné prostredie.
+Lietadlo pristálo v Žiline načas.
+Babka sadí mrkvu v záhrade za domom.
+Nezabudni zavrieť dvere, keď odídeš.
+Univerzita dostala novú knižnicu.
+Strč prst skrz krk.
+Vlk a štvrť sú krátke slová.

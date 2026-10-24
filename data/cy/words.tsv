@@ -1,0 +1,4 @@
+# jespersen's own Welsh word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. An acute accent marks a stress the
+# rules would put elsewhere (Cymraeg → Cymráeg).
+cymraeg	cymráeg

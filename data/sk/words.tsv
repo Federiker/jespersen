@@ -1,0 +1,5 @@
+# jespersen's own Slovak word list (CC0): words respelt for what the spelling rules would miss. One
+# per line: the word in lower case, a tab, its respelling. The rules soften d, t and n before e
+# and i; loanwords that keep them hard are respelt with y (univerzita unyverzita).
+univerzita	unyverzita
+univerzity	unyverzity

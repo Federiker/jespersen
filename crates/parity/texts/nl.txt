@@ -1,0 +1,37 @@
+# jespersen's own Dutch test sentences (CC0): spelling, long and short vowels, oe, eu, ui, ij, ou,
+# g, ch, sch, w, final devoicing, prefixes, loanword stress, numbers, dates, money,
+# abbreviations and initialisms.
+
+De kat slaapt op het dak van het huis van de buren.
+Goedemorgen, hoe gaat het met u vandaag?
+Dank je wel, het gaat heel goed met mij.
+Amsterdam is de hoofdstad van Nederland.
+De kinderen spelen voetbal op het plein van de school.
+Mijn moeder kookt soep met verse groenten.
+Morgen gaan we met vrienden naar de zee.
+Het heeft de hele nacht geregend en de straten zijn nat.
+Mijn broer werkt als leraar in een klein dorp.
+Op de markt zijn op zaterdag altijd veel mensen.
+Ik heb 21 boeken en 15 € in mijn tas.
+De vergadering is op 3.5.2024 in Utrecht.
+De prijs van brood is met 10 % gestegen.
+De temperatuur op de top is gedaald tot -5 graden.
+Dr. Jansen en prof. de Vries waren op de conferentie.
+Het kantoor ligt aan de Stationsstraat nr. 12.
+Zij werkt bij de VN en reist vaak naar het buitenland.
+Schrijf ons op info@voorbeeld.nl, alstublieft.
+De vissers zijn voor zonsopgang de zee op gegaan.
+Mijn grootmoeder vertelde verhalen uit haar jeugd.
+Deze rode rozen ruiken heerlijk.
+We hebben samen bij het vuur gezongen.
+De reis naar Rotterdam duurde drie uur.
+Mijn zus leest graag spannende romans.
+De zon gaat onder achter de heuvels.
+De winkel verkoopt vers fruit en groente.
+We moeten de natuur en het milieu beschermen.
+Het vliegtuig is op tijd op het vliegveld geland.
+De dokter zei dat hij minder suiker moest eten.
+Vergeet niet de deur te sluiten als je weggaat.
+De universiteit heeft een nieuwe bibliotheek geopend.
+In de tuin staan een appelboom en twee kersenbomen.
+Vandaag is het mistig en de lucht is vol wolken.

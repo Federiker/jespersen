@@ -1,0 +1,100 @@
+[workspace]
+resolver = "3"
+members = ["crates/*"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.94"
+license = "CC0-1.0"
+# Not on crates.io until the name is final (owner decision, 23 October 2026).
+publish = false
+
+[workspace.dependencies]
+jespersen = { path = "crates/jespersen" }
+jespersen_lexicon = { path = "crates/lexicon" }
+jespersen_lts = { path = "crates/lts" }
+jespersen_parity = { path = "crates/parity" }
+jespersen_phonemes = { path = "crates/phonemes" }
+jespersen_spoken = { path = "crates/spoken" }
+jespersen_lang_en = { path = "crates/lang-en" }
+jespersen_lang_es = { path = "crates/lang-es" }
+jespersen_lang_fi = { path = "crates/lang-fi" }
+jespersen_lang_it = { path = "crates/lang-it" }
+jespersen_lang_om = { path = "crates/lang-om" }
+jespersen_lang_so = { path = "crates/lang-so" }
+jespersen_lang_sn = { path = "crates/lang-sn" }
+jespersen_lang_ln = { path = "crates/lang-ln" }
+jespersen_lang_lg = { path = "crates/lang-lg" }
+jespersen_lang_rn = { path = "crates/lang-rn" }
+jespersen_lang_rw = { path = "crates/lang-rw" }
+jespersen_lang_ak = { path = "crates/lang-ak" }
+jespersen_lang_ee = { path = "crates/lang-ee" }
+jespersen_lang_ha = { path = "crates/lang-ha" }
+jespersen_lang_ig = { path = "crates/lang-ig" }
+jespersen_lang_yo = { path = "crates/lang-yo" }
+jespersen_lang_el = { path = "crates/lang-el" }
+jespersen_lang_sw = { path = "crates/lang-sw" }
+jespersen_lang_mk = { path = "crates/lang-mk" }
+jespersen_lang_sr = { path = "crates/lang-sr" }
+jespersen_lang_ms = { path = "crates/lang-ms" }
+jespersen_lang_ru = { path = "crates/lang-ru" }
+jespersen_lang_ga = { path = "crates/lang-ga" }
+jespersen_lang_cy = { path = "crates/lang-cy" }
+jespersen_lang_is = { path = "crates/lang-is" }
+jespersen_lang_da = { path = "crates/lang-da" }
+jespersen_lang_nb = { path = "crates/lang-nb" }
+jespersen_lang_sv = { path = "crates/lang-sv" }
+jespersen_lang_sq = { path = "crates/lang-sq" }
+jespersen_lang_lt = { path = "crates/lang-lt" }
+jespersen_lang_af = { path = "crates/lang-af" }
+jespersen_lang_lv = { path = "crates/lang-lv" }
+jespersen_lang_et = { path = "crates/lang-et" }
+jespersen_lang_hu = { path = "crates/lang-hu" }
+jespersen_lang_nl = { path = "crates/lang-nl" }
+jespersen_lang_de = { path = "crates/lang-de" }
+jespersen_lang_ca = { path = "crates/lang-ca" }
+jespersen_lang_ro = { path = "crates/lang-ro" }
+jespersen_lang_eu = { path = "crates/lang-eu" }
+jespersen_lang_sl = { path = "crates/lang-sl" }
+jespersen_lang_hr = { path = "crates/lang-hr" }
+jespersen_lang_sk = { path = "crates/lang-sk" }
+jespersen_lang_cs = { path = "crates/lang-cs" }
+jespersen_lang_fr = { path = "crates/lang-fr" }
+jespersen_lang_pl = { path = "crates/lang-pl" }
+jespersen_lang_pt = { path = "crates/lang-pt" }
+jespersen_lang_id = { path = "crates/lang-id" }
+jespersen_lang_tr = { path = "crates/lang-tr" }
+jespersen_lang_zh = { path = "crates/lang-zh" }
+jespersen_text = { path = "crates/text" }
+sha2 = "0.11"
+unicode-segmentation = "1.13"
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+all = { level = "warn", priority = -1 }
+pedantic = { level = "warn", priority = -1 }
+# Panics outside tests are explicit (`#[expect(..., reason = ...)]`); tests may unwrap (clippy.toml).
+unwrap_used = "warn"
+expect_used = "warn"
+
+# Less debug info in dev builds and tests: line tables for our crates (enough
+# for backtraces), none for dependencies. Smaller files, faster linking.
+[profile.dev]
+debug = "line-tables-only"
+
+[profile.dev.package."*"]
+debug = false
+
+# Full debug info for jespersen's crates in debugger sessions (`cargo build
+# --profile debugging`, used by .vscode/launch.json); line tables only for
+# dependencies. Kept in target/debugging so it never invalidates the everyday
+# dev build.
+[profile.debugging]
+inherits = "dev"
+debug = true
+
+[profile.debugging.package."*"]
+debug = "line-tables-only"

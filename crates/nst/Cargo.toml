@@ -1,0 +1,15 @@
+[package]
+name = "jespersen_nst"
+description = "Development tool: the words and pronunciations jespersen reads from NST's lexicons"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "jespersen-nst"
+path = "src/main.rs"
+
+[lints]
+workspace = true

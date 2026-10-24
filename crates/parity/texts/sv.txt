@@ -1,0 +1,36 @@
+# jespersen's own Swedish test sentences (CC0): spelling, long and short vowels, å, ä, ö, the sj
+# and tj sounds, soft k and g, rs and rt, numbers, dates, money, abbreviations and initialisms.
+
+Katten sover på taket till grannens hus.
+God morgon, hur mår du i dag?
+Tack så mycket, jag mår mycket bra.
+Stockholm är Sveriges huvudstad.
+Barnen spelar fotboll på skolans gård.
+Min mamma lagar soppa med färska grönsaker.
+I morgon åker vi till havet med våra vänner.
+Det har regnat hela natten och gatorna är våta.
+Min bror arbetar som lärare i en liten by.
+På torget finns det alltid mycket folk på lördagar.
+Jag har 21 böcker och 15 € i väskan.
+Mötet hålls den 3.5.2024 i Göteborg.
+Priset på bröd har stigit med 10 %.
+Temperaturen på fjället har sjunkit till -5 grader.
+Dr. Lindberg och prof. Nilsson var på konferensen.
+Kontoret ligger på Storgatan nr. 12.
+Hon arbetar på FN och reser ofta utomlands.
+Skriv till oss på info@exempel.se, tack.
+Fiskarna gav sig ut på sjön före gryningen.
+Min mormor berättade historier från sin ungdom.
+Dessa röda rosor doftar underbart.
+Vi sjöng tillsammans vid elden.
+Resan till Malmö tog tre timmar.
+Min syster läser gärna spännande romaner.
+Solen går ner bakom kullarna.
+Affären säljer färsk frukt och grönsaker.
+Vi måste skydda naturen och miljön.
+Flygplanet landade i tid på flygplatsen.
+Läkaren sa att han borde äta mindre socker.
+Glöm inte att stänga dörren när du går.
+Universitetet har öppnat ett nytt bibliotek.
+I trädgården står ett äppelträd och två körsbärsträd.
+I dag är det dimmigt och himlen är full av moln.

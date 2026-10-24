@@ -1,0 +1,50 @@
+{
+  // Built with the `debugging` profile (full debug info, in target/debugging), so debugging does
+  // not invalidate the lighter everyday dev build.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CLI (CodeLLDB)",
+      "type": "lldb",
+      "request": "launch",
+      "cargo": {
+        "args": ["build", "--profile=debugging", "--package=jespersen_cli"],
+        "filter": { "name": "jespersen", "kind": "bin" }
+      },
+      "args": ["${input:cliArgs}"],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Tests: one crate (CodeLLDB)",
+      "type": "lldb",
+      "request": "launch",
+      "cargo": {
+        "args": ["test", "--no-run", "--profile=debugging", "--package=${input:crate}"],
+        "filter": { "kind": "test" }
+      },
+      "args": ["${input:testFilter}"],
+      "cwd": "${workspaceFolder}"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "cliArgs",
+      "type": "promptString",
+      "description": "Arguments for the jespersen command",
+      "default": "--help"
+    },
+    {
+      "id": "crate",
+      "type": "pickString",
+      "description": "Crate whose tests to debug",
+      "options": ["jespersen", "jespersen_cli", "jespersen_lang_en", "jespersen_lexicon", "jespersen_parity", "jespersen_phonemes", "jespersen_text"],
+      "default": "jespersen_cli"
+    },
+    {
+      "id": "testFilter",
+      "type": "promptString",
+      "description": "Test name filter (empty runs them all)",
+      "default": ""
+    }
+  ]
+}

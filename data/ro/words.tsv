@@ -1,0 +1,20 @@
+# jespersen's own Romanian word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. The forms of a fi and the pronouns
+# that start with e are said with j (este jeste, el jel); an acute accent marks a stress the rules
+# would put elsewhere (așá).
+așa	așá
+ceva	cevá
+e	ie
+ea	ia
+ei	iei
+el	iel
+ele	iele
+era	iera
+erai	ierai
+eram	ieram
+erau	ierau
+este	ieste
+ești	iești
+eu	ieu
+numai	númai
+românia	românía

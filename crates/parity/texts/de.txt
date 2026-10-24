@@ -1,0 +1,37 @@
+# jespersen's own German test sentences (CC0): spelling, long and short vowels, ä, ö, ü, ß, ch, sch,
+# sp, st, -ig, -er, final devoicing, prefixes, loanword stress, numbers, dates, money,
+# abbreviations and initialisms.
+
+Die Katze schläft auf dem Dach des Nachbarhauses.
+Guten Morgen, wie geht es Ihnen heute?
+Vielen Dank, mir geht es sehr gut.
+Berlin ist die Hauptstadt von Deutschland.
+Die Kinder spielen im Hof der Schule Fußball.
+Meine Mutter kocht eine Suppe mit frischem Gemüse.
+Morgen früh fahren wir mit Freunden an das Meer.
+Es hat die ganze Nacht geregnet, und die Straßen sind nass.
+Mein Bruder arbeitet als Lehrer in einem kleinen Dorf.
+Auf dem Markt sind samstags immer viele Leute.
+Ich habe 21 Bücher und 15 € in meiner Tasche.
+Die Sitzung findet am 3.5.2024 in München statt.
+Der Preis für Brot ist um 10 % gestiegen.
+Die Temperatur ist auf dem Gipfel auf -5 Grad gefallen.
+Dr. Müller und Prof. Schmidt waren auf der Konferenz.
+Das Büro liegt in der Bahnhofstraße Nr. 12.
+Sie arbeitet bei der UNO und reist oft ins Ausland.
+Schreiben Sie uns an info@beispiel.de, bitte.
+Die Fischer sind vor dem Morgengrauen aufs Meer gefahren.
+Die Großmutter erzählte Geschichten aus ihrer Jugend.
+Diese roten Rosen duften wunderbar.
+Wir haben zusammen am Feuer gesungen.
+Die Reise nach Hamburg hat drei Stunden gedauert.
+Meine Schwester liest gern spannende Romane.
+Die Sonne geht hinter den Hügeln unter.
+Der Laden verkauft frisches Obst und Gemüse.
+Wir müssen die Natur und die Umwelt schützen.
+Das Flugzeug ist pünktlich am Flughafen gelandet.
+Der Arzt sagte ihm, er solle weniger Zucker essen.
+Vergiss nicht, die Tür zu schließen, wenn du gehst.
+Die Universität hat eine neue Bibliothek eröffnet.
+Im Garten stehen ein Apfelbaum und zwei Kirschbäume.
+Heute ist es neblig, und der Himmel ist voller Wolken.

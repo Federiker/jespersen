@@ -1,0 +1,36 @@
+# jespersen's own Czech test sentences (CC0): spelling, long vowels, ě, ř, voicing, syllabic r and l,
+# stress, numbers, dates, money, abbreviations and initialisms.
+
+Kočka sedí na střeše domu a dívá se na ptáky.
+Dobrý den, jak se máte?
+Děkuji pěkně, všechno je v pořádku.
+Česká republika leží ve střední Evropě.
+Děti si hrají s míčem na školním hřišti.
+Maminka vaří k večeři zeleninovou polévku.
+Zítra ráno pojedeme k moři.
+Celou noc pršelo a ulice byly mokré.
+Můj bratr pracuje jako učitel v malé vesnici.
+Na náměstí je v sobotu vždycky hodně lidí.
+Mám 21 knih a 15 Kč v peněžence.
+Schůzka se uskuteční 3. 5. 2024 v Praze.
+Cena chleba vzrostla letos o 10 %.
+Teplota klesla na vrcholu hory na -5 stupňů.
+Dr. Novák a prof. Svoboda byli na konferenci.
+Kancelář je v ul. Dlouhá č. 12.
+Pracuje v OSN a často cestuje do zahraničí.
+Napište nám na info@priklad.cz, prosím.
+Rybáři vypluli na moře před svítáním.
+Dědeček vyprávěl o svém mládí.
+Ty červené růže krásně voní.
+Zpívali jsme spolu u ohně.
+Cesta do Brna trvala tři hodiny.
+Moje sestra ráda čte dobrodružné knihy.
+Slunce zapadá za kopce.
+Obchod prodává čerstvé ovoce a zeleninu.
+Musíme chránit přírodu a životní prostředí.
+Letadlo přistálo v Ostravě včas.
+Babička sází mrkev na zahradě za domem.
+Nezapomeň zavřít dveře, než odejdeš.
+Univerzita dostala novou knihovnu.
+Strč prst skrz krk.
+Vlk a čtvrť jsou krátká slova bez samohlásek.

@@ -1,0 +1,37 @@
+# jespersen's own Icelandic test sentences (CC0): spelling, long and short vowels, á, é, ó, ú, æ,
+# au, ei, ð, þ, preaspiration, ll and nn, voiceless l, n and r, numbers, dates, money,
+# abbreviations and initialisms.
+
+Kötturinn sefur á þaki hússins hjá nágrannanum.
+Góðan daginn, hvernig hefur þú það í dag?
+Takk fyrir, ég hef það mjög gott.
+Reykjavík er höfuðborg Íslands.
+Börnin spila fótbolta á skólalóðinni.
+Mamma mín eldar súpu með fersku grænmeti.
+Á morgun förum við til sjávar með vinum okkar.
+Það rigndi alla nóttina og göturnar eru blautar.
+Bróðir minn vinnur sem kennari í litlu þorpi.
+Á markaðnum er alltaf margt fólk á laugardögum.
+Ég á 21 bók og 15 € í töskunni.
+Fundurinn verður haldinn 3.5.2024 á Akureyri.
+Verðið á brauði hefur hækkað um 10 %.
+Hitinn á fjallinu féll niður í -5 gráður.
+Dr. Jónsson og prof. Sigurðsson voru á ráðstefnunni.
+Skrifstofan er við Laugaveg nr. 12.
+Hún vinnur hjá SÞ og ferðast oft til útlanda.
+Skrifaðu okkur á info@daemi.is, takk.
+Sjómennirnir fóru á sjó fyrir dögun.
+Amma mín sagði sögur frá æsku sinni.
+Þessar rauðu rósir ilma dásamlega.
+Við sungum saman við eldinn.
+Ferðin til Ísafjarðar tók þrjá tíma.
+Systir mín les gjarnan spennandi skáldsögur.
+Sólin sest á bak við hæðirnar.
+Búðin selur ferska ávexti og grænmeti.
+Við verðum að vernda náttúruna og umhverfið.
+Flugvélin lenti á réttum tíma á flugvellinum.
+Læknirinn sagði honum að borða minni sykur.
+Ekki gleyma að loka hurðinni þegar þú ferð.
+Háskólinn hefur opnað nýtt bókasafn.
+Í garðinum er eplatré og tvö kirsuberjatré.
+Í dag er þoka og himinninn er fullur af skýjum.

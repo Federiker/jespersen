@@ -1,0 +1,26 @@
+# jespersen's own Swedish word list (CC0): words respelt for what the spelling rules would miss.
+# One per line: the word in lower case, a tab, its respelling. An acute accent marks a stress the
+# rules would put elsewhere (miljon → miljón), a doubled consonant a short vowel (han → hann).
+än	änn
+den	denn
+dig	dej
+din	dinn
+en	enn
+hade	hadde
+han	hann
+hon	honn
+honom	honnom
+in	inn
+kan	kann
+man	mann
+men	menn
+mig	mej
+miljon	miljón
+miljoner	miljóner
+min	minn
+någon	någonn
+något	någott
+och	ock
+säga	säja
+sig	sej
+sin	sinn

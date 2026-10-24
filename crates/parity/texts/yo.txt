@@ -1,0 +1,36 @@
+# jespersen's own Yoruba test sentences (CC0): dotted letters, gb and p, nasal vowels, syllabic n,
+# tone marks precomposed and combining, numbers, dates, money, abbreviations and initialisms.
+
+Ẹ kú àárọ̀, olùkọ́.
+Ọmọ náà ń ka ìwé rẹ̀ lábẹ́ igi.
+Bàbá mi lọ sí ọjà ní àná.
+Ìyá wa se ẹ̀wà àti ẹ̀ja fún wa.
+Ọlọ́run ló dá ayé àti ọ̀run.
+Àwọn ọmọdé ń ṣeré ní ìta gbangba.
+Mo fẹ́ kọ́ èdè Yorùbá dáadáa.
+Ilé ẹ̀kọ́ wa tóbi, ó sì lẹ́wà.
+Ojú ọ̀nà náà gùn gan-an.
+Ẹ̀gbọ́n mi ń gbé ní ìlú Èkó.
+Ṣé o ti jẹun?
+Kò sí ohun tí ó burú nínú rẹ̀.
+Àgbẹ̀ náà gbin àgbàdo àti iṣu.
+Òjò ń rọ̀ láti òwúrọ̀.
+Wọ́n kọrin, wọ́n sì jó títí di alẹ́.
+Ajá dúdú kan sùn sí ẹnu ọ̀nà.
+Ìwé yìí jẹ́ ti olùkọ́ wa.
+Ọ̀rẹ́ mi ra aṣọ pupa ní ọjà.
+Ó ní ọmọ mẹ́ta.
+Ọdún 2024 ni wọ́n kọ́ ilé náà.
+Ó dé ní 3/5/2024.
+Iye rẹ̀ jẹ́ ₦1500.
+Ìdá 25% àwọn ènìyàn ló wá.
+Dr. Adé ti dé láti Ìbàdàn.
+Prof. Ọlátúndé kọ ìwé méjì.
+Ilé-iṣẹ́ náà wà ní ojúlé 12.
+Àwọn ọmọ ilé-ìwé 45 ló kọ ìdánwò náà.
+Ọkọ̀ náà gbéra ní aago mẹ́jọ.
+Ẹ jọ̀ọ́, ẹ fún mi ní omi.
+Ìjọba ti kéde ọdún tuntun.
+Ó kọ lẹ́tà sí ọ̀rẹ́ rẹ̀ ní Àbújá.
+Wọ́n ra mọ́tò fún ₦250000.
+Ẹ ṣé púpọ̀, ó dàbọ̀.

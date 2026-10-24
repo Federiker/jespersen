@@ -1,0 +1,36 @@
+# jespersen's own Romanian test sentences (CC0): spelling, ă, â, î, ș, ț, ce, ci, che, chi, ge, gi,
+# diphthongs, final i, stress, numbers, dates, money, abbreviations and initialisms.
+
+Pisica stă pe acoperișul casei și se uită la păsări.
+Bună ziua, ce mai faceți?
+Mulțumesc frumos, totul este în regulă.
+România se află în sud-estul Europei.
+Copiii se joacă cu mingea în curtea școlii.
+Mama pregătește o supă de legume pentru cină.
+Mâine dimineață mergem la mare cu prietenii.
+A plouat toată noaptea și străzile erau ude.
+Fratele meu lucrează ca profesor într-un sat mic.
+În piață sunt mereu mulți oameni sâmbăta.
+Am 21 de cărți și 15 € în portofel.
+Ședința va avea loc pe 3.5.2024 la București.
+Prețul pâinii a crescut cu 10 % anul acesta.
+Temperatura a scăzut la -5 grade pe vârful muntelui.
+Dr. Popescu și prof. Ionescu au fost la conferință.
+Biroul se află pe str. Victoriei nr. 12.
+Lucrează la ONU și călătorește des în străinătate.
+Scrieți-ne la info@exemplu.ro, vă rog.
+Pescarii au plecat pe mare înainte de zori.
+Bunicul povestea despre tinerețea lui.
+Aceste trandafiri roșii miros frumos.
+Am cântat împreună lângă foc.
+Drumul până la Cluj a durat trei ore.
+Sora mea citește cu plăcere romane de aventuri.
+Soarele apune după dealuri.
+Magazinul vinde fructe și legume proaspete.
+Trebuie să protejăm natura și mediul.
+Avionul a aterizat la timp pe aeroport.
+Bunica plantează morcovi în grădină.
+Nu uita să închizi ușa înainte să pleci.
+Universitatea a primit o bibliotecă nouă.
+Ghiocelul a înflorit în ghiveci.
+Chiar și copiii știu asta.

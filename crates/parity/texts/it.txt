@@ -1,0 +1,53 @@
+# jespersen's own Italian test sentences (CC0): spelling, stress, open and closed vowels, long
+# consonants, elisions, function words, numbers, dates, money, abbreviations and initialisms.
+
+Il cane di Rosa mangia la carne.
+C'era una volta un gatto che beveva l'acqua.
+La casa è grande e la cosa è bella.
+Perché sei venuto qui stamattina?
+Gli uomini lavorano nella fabbrica vicino al fiume.
+La famiglia di Marco vive a Roma da molti anni.
+Lo sciopero dei treni è durato tutto il giorno.
+La scienza ci aiuta a capire il mondo.
+Il ghiaccio si scioglie al sole d'estate.
+Mio zio beve sempre un caffè dopo pranzo.
+La pizza napoletana è famosa in tutto il mondo.
+Nel mezzo del cammin di nostra vita.
+Il ragazzo guardava le stelle dalla finestra.
+Questa è una storia antica e molto bella.
+Ho comprato un libro e una penna nuova.
+La musica classica mi piace molto.
+Il medico ha detto che stai bene.
+Ieri sera abbiamo mangiato una pizza.
+Dove sei stato tutto questo tempo?
+La notte era buia e piena di stelle.
+Quando arriva il treno per Milano?
+Il popolo italiano ama la buona cucina.
+Il bambino piangeva perché aveva fame.
+Dell'acqua fresca e un po' di pane.
+Un'altra volta, quest'anno, nell'aria.
+Sono le 8:30 del mattino.
+Ho 21 anni e 1.200 euro.
+Il 3 maggio 2024 è stato un bel giorno.
+Il prezzo è di 25 € o 30 $.
+Il 50 % degli studenti ha superato l'esame.
+La temperatura è scesa a -5 gradi.
+Abito al 3° piano e lei al 2ª porta.
+Il XX secolo ha cambiato tutto.
+Luigi XIV era il re di Francia.
+Il Sig. Rossi e il Dott. Bianchi sono arrivati.
+La NATO e la FIAT sono famose.
+Ho comprato un DVD e un CD.
+Scrivi a info@esempio.it prima di venerdì.
+L'Italia è una penisola nel Mar Mediterraneo.
+Le montagne erano coperte di neve.
+Il vecchio pescatore tornò al porto.
+La ragazza cantava una canzone allegra.
+Il professore spiegava la lezione di storia.
+Abbiamo visitato Firenze, Venezia e Napoli.
+Il sole tramontava dietro le colline.
+Mi piacerebbe vivere in campagna.
+Il gatto dormiva sulla sedia accanto al fuoco.
+I bambini giocavano nel giardino della scuola.
+La città era piena di gente e di rumore.
+Non dimenticare di chiudere la porta.
