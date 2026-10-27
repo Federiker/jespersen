@@ -48,6 +48,14 @@ fn words_from_their_spelling_and_the_list() {
         ("ventitré", "ventiˈtre"),
         ("importante", "imporˈtante"),
         ("mezzo", "ˈmɛddzo"),
+        ("passare", "pasˈsare"),
+        ("trovai", "troˈvai̯"),
+        ("mangiai", "manˈdʒai̯"),
+        ("abbandonai", "abbandoˈnai̯"),
+        ("operai", "opeˈrai̯"),
+        ("assai", "asˈsai̯"),
+        ("mai", "ˈmai̯"),
+        ("guai", "ˈɡwai̯"),
     ];
     let wrong: Vec<String> = cases
         .iter()
@@ -197,7 +205,13 @@ fn espeak_notation_in_running_speech() {
     assert_eq!(espeak("Abbiamo i piedi."), "abːjˌamo i pjˈɛdɪ");
     assert_eq!(espeak("Rideva."), "ridˈɛva");
     assert_eq!(espeak("Era la sua casa."), "ˌɛra la sˌʊa kˈaza");
-    assert_eq!(espeak("Non è vero."), "non e vˈero");
+    assert_eq!(espeak("Non è vero."), "non ˈɛ vˈero");
+    assert_eq!(
+        read("Qual era è cosa dura.", Notation::Ipa),
+        "ˈkwal ˌɛra ˈɛ ˈkɔsa ˈdura"
+    );
+    assert_eq!(read("C'è un gatto.", Notation::Ipa), "ˈtʃɛ un ˈɡatto");
+    assert_eq!(read("Il gatto e il cane.", Notation::Ipa), "il ˈɡatto e il ˈkane");
     assert_eq!(espeak("Dell'acqua."), "dellˈakːwa");
     assert_eq!(read("Rideva.", Notation::Ipa), "riˈdeva");
 }

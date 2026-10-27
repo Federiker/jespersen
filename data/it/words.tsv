@@ -2,8 +2,9 @@
 # what the spelling rules would miss. One per line: the word in lower case, a tab, its respelling.
 # A grave accent marks the stress and, on e and o, an open vowel (tàvolo, bène, pòrta); an acute
 # one a closed e or o (crédere, sóle); ż is a voiced z (mèżżo). The rules stress the last syllable
-# but one, read -issimo, -abile, -ico, -avano, -arono and the like a syllable earlier, open e and o
-# after i and u glides (piède, buòno) and in -ente, -enza, -ello, -orio, and close them otherwise.
+# but one (a final -ai the last: trovai, operai), read -issimo, -abile, -ico, -avano, -arono and
+# the like a syllable earlier, open e and o after i and u glides (piède, buòno) and in -ente,
+# -enza, -ello, -orio, and close them otherwise.
 # Stressed three syllables from the end.
 abito	àbito
 albero	àlbero

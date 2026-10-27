@@ -9,11 +9,12 @@ use crate::{
 };
 
 /// Function words said without stress in running text: articles and their forms with
-/// prepositions, object pronouns, prepositions, conjunctions, è, ha and ho.
-const UNSTRESSED: [&str; 51] = [
+/// prepositions, object pronouns, prepositions, conjunctions, ha and ho. è, the verb, keeps its
+/// stress and its open ɛ (qual era è cosa dura), unlike the conjunction e.
+const UNSTRESSED: [&str; 49] = [
     "il", "lo", "la", "i", "gli", "le", "un", "di", "a", "da", "in", "con", "su", "per", "tra", "fra", "e", "ed", "o",
     "od", "ma", "che", "se", "ne", "ci", "vi", "mi", "ti", "si", "li", "me", "te", "del", "al", "dal", "nel", "sul",
-    "col", "è", "non", "quel", "più", "fu", "chi", "ha", "ho", "hai", "han", "tu", "ve", "c'è",
+    "col", "non", "quel", "più", "fu", "chi", "ha", "ho", "hai", "han", "tu", "ve",
 ];
 /// Words said with a lighter stress (eSpeak NG writes a secondary one): una, articles joined to a
 /// preposition, demonstratives, possessives, and the commonest forms of essere and avere.

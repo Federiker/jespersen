@@ -163,6 +163,11 @@ manuzio reads with its own front end today.
     long ɲ, its glides as vowels, function words and lighter stresses.
     Collodi's Pinocchio (chapters I–III): 90.5% of words as eSpeak NG
     writes them; jespersen's own list 90.1%.
+  - [ ] The conditional's first person in -rei is stressed on its last
+    syllable (farei faˈrei̯, potrei, vorrei, sarei; read ˈfarei̯ today), found
+    with the -ai fix of Jerome's verse report (27 October 2026). Unlike
+    -ai, -ei has words stressed earlier (spontanei, aerei, from -eo):
+    - [ ] -rei after a verb stem, and a list of the exceptions.
   - [ ] Grow the word list from real text: the rest is mostly words whose
     stress or open vowels the rules miss (judged from Italian dictionaries,
     never copied from eSpeak NG, decision 27), and enclitic verb forms

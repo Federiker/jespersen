@@ -303,6 +303,10 @@ pub(crate) fn pronounce(word: &str) -> Option<Pronunciation> {
         && nuclei.len() >= 3
     {
         3
+    } else if spelt.ends_with("ai") && sounds.last().is_some_and(|sound| sound.phoneme == OFFGLIDE_I) {
+        // A final -ai is stressed: the passato remoto's first person (trovai, mangiai), the
+        // plurals of -aio (operai) and adverbs (assai, ormai).
+        1
     } else if spelt.ends_with(|c: char| "aeiouàèéìòóù".contains(c)) {
         2
     } else {

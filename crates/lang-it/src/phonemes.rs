@@ -98,7 +98,8 @@ pub(crate) fn legal_onset(cluster: &[Phoneme]) -> bool {
         _ => cluster,
     };
     let without_s = match without_glide {
-        [S | Z, rest @ ..] if !rest.is_empty() => rest,
+        // Not a double s, which is split (pas-sa-re).
+        [S | Z, rest @ ..] if !rest.is_empty() && !matches!(rest[0], S | Z) => rest,
         _ => without_glide,
     };
     match without_s {
