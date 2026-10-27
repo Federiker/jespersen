@@ -63,7 +63,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_lang_af",
  "jespersen_lang_ak",
@@ -122,14 +122,14 @@ dependencies = [
 
 [[package]]
 name = "jespersen_cli"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen",
 ]
 
 [[package]]
 name = "jespersen_lang_af"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -138,7 +138,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ak"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -147,7 +147,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ca"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -156,7 +156,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_cs"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -165,7 +165,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_cy"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -174,7 +174,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_da"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_lexicon",
  "jespersen_phonemes",
@@ -184,7 +184,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_de"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -193,7 +193,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ee"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -202,7 +202,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_el"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -211,7 +211,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_en"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_lexicon",
  "jespersen_lts",
@@ -222,7 +222,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_es"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -231,7 +231,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_et"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -240,7 +240,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_eu"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -249,7 +249,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_fi"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -258,7 +258,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_fr"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -267,7 +267,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ga"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -276,7 +276,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ha"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -285,7 +285,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_hr"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -294,7 +294,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_hu"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -303,7 +303,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_id"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -312,7 +312,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ig"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -321,7 +321,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_is"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -330,7 +330,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_it"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -339,7 +339,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_lg"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -348,7 +348,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ln"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -357,7 +357,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_lt"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -366,7 +366,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_lv"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -375,7 +375,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_mk"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -384,7 +384,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ms"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -393,7 +393,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_nb"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -402,7 +402,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_nl"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -411,7 +411,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_om"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -420,7 +420,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_pl"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -429,7 +429,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_pt"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -438,7 +438,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_rn"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -447,7 +447,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ro"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -456,7 +456,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_ru"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -465,7 +465,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_rw"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -474,7 +474,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sk"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -483,7 +483,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sl"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -492,7 +492,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sn"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -501,7 +501,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_so"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -510,7 +510,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sq"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -519,7 +519,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sr"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -528,7 +528,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sv"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_lexicon",
  "jespersen_phonemes",
@@ -538,7 +538,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_sw"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -547,7 +547,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_tr"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -556,7 +556,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_yo"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_spoken",
@@ -565,7 +565,7 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lang_zh"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_lexicon",
  "jespersen_phonemes",
@@ -574,30 +574,30 @@ dependencies = [
 
 [[package]]
 name = "jespersen_lexicon"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "jespersen_lts"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "jespersen_nst"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "jespersen_parity"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen",
 ]
 
 [[package]]
 name = "jespersen_phonemes"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "jespersen_spoken"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "jespersen_phonemes",
  "jespersen_text",
@@ -605,11 +605,11 @@ dependencies = [
 
 [[package]]
 name = "jespersen_tag"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "jespersen_text"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "unicode-segmentation",
 ]
