@@ -38,6 +38,10 @@ kilometer = "kilometer"
 # Spelling fragments the British rules match: suffixes (-ises, -yse) and the stem advantag-.
 ises = "ises"
 yse = "yse"
+# Verse's elisions, spelt with an apostrophe the checker splits at (lov'd, giv'n, heav'nly).
+lov = "lov"
+giv = "giv"
+nly = "nly"
 advantag = "advantag"
 # Mandarin syllables in pinyin, in the rules and tests: fo (佛), and ue, written for üe after n and l.
 fo = "fo"

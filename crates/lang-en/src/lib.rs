@@ -7,6 +7,7 @@ mod abbreviations;
 mod addresses;
 mod arpabet;
 mod british;
+mod elision;
 mod function_words;
 mod homographs;
 mod letters;

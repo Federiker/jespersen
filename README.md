@@ -7,22 +7,23 @@ the Danish linguist who helped shape the International Phonetic Alphabet.
 
 **Status:** English (American and British) is done for book narration, in
 plain IPA or in eSpeak NG's notation: any word (from CMUdict, from known
-words, or with rules learned from CMUdict), homographs by context, numbers,
-dates, units, money, addresses and symbols, and function words as in running
-text. Mandarin is done too: Simplified and Traditional characters, in plain
-IPA, in the notation Kokoro's Chinese voices learnt, or in pinyin and zhuyin,
-with tone sandhi, erhua, characters of several readings read by context,
-numbers in Chinese and English words inside. Spanish (Castilian and Latin
-American), Portuguese (European and Brazilian), French, Italian, Finnish,
-Turkish, Indonesian, Polish, Czech, Slovak, Croatian, Slovenian, Basque,
-Romanian, Catalan, German, Dutch, Hungarian, Afrikaans, Latvian, Lithuanian,
-Estonian, Swedish, Norwegian Bokmål, Danish, Icelandic, Albanian, Welsh, Irish,
+words, verse's elisions such as lov'd and heav'n, or with rules learned from
+CMUdict), homographs by context, numbers, dates, units, money, addresses
+and symbols, and function words as in running text. Mandarin is done too:
+Simplified and Traditional characters, in plain IPA, in the notation Kokoro's
+Chinese voices learnt, or in pinyin and zhuyin, with tone sandhi, erhua,
+characters of several readings read by context, numbers in Chinese and
+English words inside. Spanish (Castilian and Latin American), Portuguese
+(European and Brazilian), French, Italian, Finnish, Turkish, Indonesian,
+Polish, Czech, Slovak, Croatian, Slovenian, Basque, Romanian, Catalan,
+German, Dutch, Hungarian, Afrikaans, Latvian, Lithuanian, Estonian,
+Swedish, Norwegian Bokmål, Danish, Icelandic, Albanian, Welsh, Irish,
 Swahili, Greek, Malay, Serbian (in either script), Macedonian, Somali, Oromo,
-Russian, Kinyarwanda, Kirundi, Luganda, Lingala, Shona, Yoruba, Igbo, Hausa, Ewe
-and Akan are read from their spelling and jespersen's own word lists (Danish and
-Swedish also from NST's pronunciation lexicons), numbers and abbreviations
-included, in plain IPA or eSpeak NG's notation. The other languages come next
-(see [TODO.md](TODO.md)).
+Russian, Kinyarwanda, Kirundi, Luganda, Lingala, Shona, Yoruba, Igbo, Hausa,
+Ewe and Akan are read from their spelling and jespersen's own word lists
+(Danish and Swedish also from NST's pronunciation lexicons), numbers and
+abbreviations included, in plain IPA or eSpeak NG's notation. The other
+languages come next (see [TODO.md](TODO.md)).
 
 ```sh
 $ echo "Mr. Smith's water, please." | jespersen phonemes --espeak

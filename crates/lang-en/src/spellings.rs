@@ -4,6 +4,8 @@
 #[derive(Debug)]
 pub struct Group {
     pub letters: String,
+    /// Where the group starts, counting the spelling's letters only.
+    pub start: usize,
     pub before: Option<char>,
     /// The letter after the group (the w of new, for ew).
     pub after: Option<char>,
@@ -37,6 +39,7 @@ pub fn vowel_groups(spelling: &str) -> Vec<Group> {
         }
         groups.push(Group {
             letters: letters[start..index].iter().collect(),
+            start,
             before: start.checked_sub(1).map(|before| letters[before]),
             after: letters.get(index).copied(),
             after_qu: start >= 2 && letters[start - 2] == 'q' && letters[start - 1] == 'u',

@@ -10,3 +10,14 @@ every	EH1 V ER0 IY0
 houses	HH AW1 Z IH0 Z
 # CMUdict has d and secondary stress on the last syllable.
 thirty	TH ER1 T IY0
+# Verse's elisions of a consonant, one syllable as dictionaries give them (even, ever, over, taken):
+# CMUdict lacks them, and rules would read each letter.
+e'en	IY1 N
+e'er	EH1 R
+o'er	OW1 R
+ta'en	T EY1 N
+# The same elision of ever at the end of a word, stressed there (whatever, however).
+whate'er	W AH2 T EH1 R
+howe'er	HH AW2 EH1 R
+where'er	W EH2 R EH1 R
+whene'er	W EH2 N EH1 R

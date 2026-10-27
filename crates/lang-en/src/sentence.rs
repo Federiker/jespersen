@@ -3,7 +3,7 @@ use jespersen_phonemes::{Pronunciation, Segment, Stress};
 use jespersen_text::TokenKind;
 
 use crate::{
-    Variety, british,
+    Variety, british, elision,
     function_words::{FunctionWord, before_vowel, function_word, joined, joined_next, reduces_a, segments},
     letters,
     lexicon::{self, cmudict, first, key, pronounce},
@@ -198,7 +198,8 @@ fn lower(mut segments: Vec<Segment>, to: Stress) -> Vec<Segment> {
 /// The phonemes of one word of a sentence as American English reads it (from jespersen's British
 /// entries, when `find` looks there first), before the rules across words: spelled out if it is
 /// an initialism or the letter a on its own (`last` in its run), a function word's running form,
-/// the lexicon's, derived from known words, or read with the learned rules.
+/// the lexicon's, an elision's full word (lov'd), derived from known words, or read with the learned
+/// rules.
 fn read_word(
     find: &impl Fn(&str) -> Result<Option<Vec<Segment>>, LexiconError>,
     word: &str,
@@ -225,9 +226,12 @@ fn read_word(
         None => {
             let read = match known {
                 Some(segments) => Some(segments),
-                None => match morphology::derive(key, find)? {
+                None => match elision::read(key, find)? {
                     Some(segments) => Some(segments),
-                    None => letters::guess(key)?,
+                    None => match morphology::derive(key, find)? {
+                        Some(segments) => Some(segments),
+                        None => letters::guess(key)?,
+                    },
                 },
             };
             read.map(|mut segments| {
