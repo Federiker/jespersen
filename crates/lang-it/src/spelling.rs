@@ -330,22 +330,18 @@ pub(crate) fn pronounce(word: &str) -> Option<Pronunciation> {
         })
         .collect();
     segments[stressed].phoneme = quality(&sounds, stressed, spelt, from_end == 3 && written.is_none());
-    // ɲ after the stressed vowel and before another is long (legno ˈleɲɲo, but falegname).
-    if segments.get(stressed + 1).is_some_and(|segment| segment.phoneme == NY)
-        && segments
-            .get(stressed + 2)
-            .is_some_and(|segment| segment.phoneme.is_vowel())
-    {
-        segments.insert(stressed + 1, Segment::new(NY, Stress::Unstressed));
-    }
-    // ʎ between vowels is always long (meglio ˈmɛʎʎo, famiglia, migliore), written twice as ɲ is.
-    let mut at = 1;
-    while at + 1 < segments.len() {
-        if segments[at].phoneme == LY && segments[at - 1].phoneme.is_vowel() && segments[at + 1].phoneme.is_vowel() {
-            segments.insert(at + 1, Segment::new(LY, Stress::Unstressed));
-            at += 1;
+    // ɲ and ʎ after the stressed vowel and before another are long (legno ˈleɲɲo, meglio ˈmɛʎʎo,
+    // but falegname, sbagliavo zbaˈʎavo). Kokoro says them best so, by the owner's ear.
+    for palatal in [NY, LY] {
+        if segments
+            .get(stressed + 1)
+            .is_some_and(|segment| segment.phoneme == palatal)
+            && segments
+                .get(stressed + 2)
+                .is_some_and(|segment| segment.phoneme.is_vowel())
+        {
+            segments.insert(stressed + 1, Segment::new(palatal, Stress::Unstressed));
         }
-        at += 1;
     }
     Some(syllabify(&segments, legal_onset))
 }

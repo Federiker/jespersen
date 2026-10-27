@@ -164,8 +164,9 @@ manuzio reads with its own front end today.
     Collodi's Pinocchio (chapters I–III): 90.5% of words as eSpeak NG
     writes them; jespersen's own list 90.1%.
   - [x] Heard through Kokoro by the owner (27 October 2026, kempelen's
-    listening checks): ʎ between vowels is long, written ʎʎ as ɲɲ is (meglio
-    ˈmɛʎʎo, where eSpeak NG writes one), and an s that begins a compound's
+    listening checks): ʎ after the stressed vowel is long, written ʎʎ as ɲɲ
+    is (meglio ˈmɛʎʎo, famiglia, where eSpeak NG writes one; short before
+    the stress: sbagliavo, migliore), and an s that begins a compound's
     second word stays voiceless (stasera, girasole, ventisei; `|` in
     data/it/words.tsv marks the join).
   - [ ] Number words longer than tens and units keep a voiced s where a

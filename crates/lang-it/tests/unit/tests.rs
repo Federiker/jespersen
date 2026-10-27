@@ -28,7 +28,8 @@ fn words_from_their_spelling_and_the_list() {
         ("però", "peˈrɔ"),
         ("famiglia", "faˈmiʎʎa"),
         ("meglio", "ˈmɛʎʎo"),
-        ("migliore", "miʎˈʎore"),
+        ("migliore", "miˈʎore"),
+        ("sbagliavo", "zbaˈʎavo"),
         ("gli", "ˈʎi"),
         ("sciopero", "ˈʃɔpero"),
         ("scienza", "ˈʃɛntsa"),
@@ -77,9 +78,10 @@ fn espeak_notation_writes_long_stops_with_a_length_mark() {
 }
 
 #[test]
-fn a_palatal_l_between_vowels_is_long_and_alone_is_not() {
+fn a_palatal_l_after_the_stressed_vowel_is_long_and_elsewhere_is_not() {
     assert_eq!(espeak("meglio"), "mˈɛʎʎo");
-    assert_eq!(espeak("migliore"), "miʎʎˈore");
+    assert_eq!(espeak("migliore"), "miʎˈore");
+    assert_eq!(espeak("famiglia"), "famˈiʎʎa");
     assert_eq!(espeak("gli"), "ʎˈi");
 }
 
