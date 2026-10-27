@@ -239,6 +239,13 @@ run = "cargo run --release -q -p jespersen_nst -- sv data/derived/sv/nst.tsv"
 description = "Extract the Bokmål words NST transcribed by hand from its lexicon"
 run = "cargo run --release -q -p jespersen_nst -- nb data/derived/nb/nst.tsv"
 
+# Release (README, "Releasing"): plain Git, no token.
+[tasks.tag]
+description = "Set the version, commit it, tag v<version> and push them (asking at each step)"
+run = "cargo run -q -p jespersen_tag"
+# The questions are read from the terminal.
+raw = true
+
 # What CI's Checks workflow runs, in its order: the quick checks first, so they fail fast.
 [tasks.ci]
 description = "Every check CI runs"
