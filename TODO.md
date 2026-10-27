@@ -525,6 +525,24 @@ manuzio reads with its own front end today.
     capture and report lines go into mise.toml once a capture has answers.
 - [ ] The parity tool: refuse a capture whose answers are all empty (today a
   voice without its dictionary writes 33 empty answers and exits 0).
+- [ ] Single letters on their own (`x y z`, `a b c`, a list's `b)`, an initial
+  without its full stop), found through manuzio's golden lines on 24 October
+  2026: Italian says `ks ˈi dz` where eSpeak NG says the letter names (ics,
+  ipsilon, zeta). The same probe (`b c x`) across the languages:
+  - Letter names already: cs, da, de, en, eu, hr, mk, pl, ro, ru, sk, sl, sr.
+  - Sounds instead of names: af, ca, cy, es, et, fi, fr, ga, hu, is, it, lt,
+    lv, nb, nl, pt, sq, tr.
+  - Refused (cannot pronounce): ak, ee, el (Latin letters), ha, id, ig, lg,
+    ln, ms, om, rn, rw, sn, so, sw, yo. manuzio retries a refused Latin word
+    as American English, so its readers hear English names there.
+  - [ ] Swedish reads a lone c as the Roman numeral (`hˈɵndra`); check the
+    other letters that are numerals (i, v, x, l, d, m) in every language.
+  - [ ] Decide when a lone letter is a name: not where it is a word (Italian
+    a, e, o; Spanish y, o, u; Swedish i, å; French à, y), and not a Roman
+    numeral in a heading or after a king's name.
+  - [ ] Each language's letter names, as Serbian and Malay have them, from
+    the language's own alphabet (judged from its grammars, never copied from
+    eSpeak NG, decision 27).
 
 manuzio's book languages added on 24 October 2026, typeset only there until
 jespersen reads them (decisions 47 and 48):
