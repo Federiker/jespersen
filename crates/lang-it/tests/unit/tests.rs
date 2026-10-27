@@ -26,7 +26,9 @@ fn words_from_their_spelling_and_the_list() {
         ("città", "tʃitˈta"),
         ("caffè", "kafˈfɛ"),
         ("però", "peˈrɔ"),
-        ("famiglia", "faˈmiʎa"),
+        ("famiglia", "faˈmiʎʎa"),
+        ("meglio", "ˈmɛʎʎo"),
+        ("migliore", "miʎˈʎore"),
         ("gli", "ˈʎi"),
         ("sciopero", "ˈʃɔpero"),
         ("scienza", "ˈʃɛntsa"),
@@ -38,7 +40,7 @@ fn words_from_their_spelling_and_the_list() {
         ("acqua", "ˈakkwa"),
         ("maggio", "ˈmaddʒo"),
         ("terra", "ˈtɛrra"),
-        ("sbaglio", "ˈzbaʎo"),
+        ("sbaglio", "ˈzbaʎʎo"),
         ("musica", "ˈmusika"),
         ("bellissimo", "belˈlissimo"),
         ("parlavano", "parˈlavano"),
@@ -72,6 +74,24 @@ fn espeak_notation_writes_long_stops_with_a_length_mark() {
     assert_eq!(espeak("terra"), "tˈɛrɾa");
     assert_eq!(espeak("casa"), "kˈaza");
     assert_eq!(espeak("bello"), "bˈɛllo");
+}
+
+#[test]
+fn a_palatal_l_between_vowels_is_long_and_alone_is_not() {
+    assert_eq!(espeak("meglio"), "mˈɛʎʎo");
+    assert_eq!(espeak("migliore"), "miʎʎˈore");
+    assert_eq!(espeak("gli"), "ʎˈi");
+}
+
+#[test]
+fn an_s_starting_the_second_word_of_a_compound_stays_voiceless() {
+    // Between vowels in one word the s is voiced in eSpeak NG's notation (casa kˈaza); where the
+    // word list marks a compound's join it is not.
+    assert_eq!(espeak("stasera"), "stasˈera");
+    assert_eq!(espeak("girasole"), "dʒirasˈole");
+    assert_eq!(espeak("ventisei"), "ventisˈɛi");
+    assert_eq!(espeak("novantasette"), "novantasˈɛtːe");
+    assert_eq!(ipa("trentasei"), "trentaˈsɛi̯");
 }
 
 use jespersen_text::{TokenKind, sentences};

@@ -163,6 +163,16 @@ manuzio reads with its own front end today.
     long ɲ, its glides as vowels, function words and lighter stresses.
     Collodi's Pinocchio (chapters I–III): 90.5% of words as eSpeak NG
     writes them; jespersen's own list 90.1%.
+  - [x] Heard through Kokoro by the owner (27 October 2026, kempelen's
+    listening checks): ʎ between vowels is long, written ʎʎ as ɲɲ is (meglio
+    ˈmɛʎʎo, where eSpeak NG writes one), and an s that begins a compound's
+    second word stays voiceless (stasera, girasole, ventisei; `|` in
+    data/it/words.tsv marks the join).
+  - [ ] Number words longer than tens and units keep a voiced s where a
+    sei or sette joins them (trecentoventisei, milleseicento): mark the
+    join in numbers.rs rather than listing each one.
+  - [ ] Other compounds of the kind (risalire, risuonare): judged from
+    Italian dictionaries, added to the word list as they turn up.
   - [ ] The conditional's first person in -rei is stressed on its last
     syllable (farei faˈrei̯, potrei, vorrei, sarei; read ˈfarei̯ today), found
     with the -ai fix of Jerome's verse report (27 October 2026). Unlike

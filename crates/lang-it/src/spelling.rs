@@ -203,7 +203,9 @@ fn sounds(word: &str) -> Option<Vec<Sound>> {
             'm' => push(&mut out, M),
             'n' => push(&mut out, N),
             'r' => push(&mut out, R),
-            'h' => {}
+            // h is silent; so is |, which in jespersen's respellings marks where the words of a
+            // compound join (sta|sera): an s after it begins a word, so it stays voiceless.
+            'h' | '|' => {}
             'j' | 'y' => push(&mut out, I),
             'w' => push(&mut out, GLIDE_U),
             'x' => {
@@ -335,6 +337,15 @@ pub(crate) fn pronounce(word: &str) -> Option<Pronunciation> {
             .is_some_and(|segment| segment.phoneme.is_vowel())
     {
         segments.insert(stressed + 1, Segment::new(NY, Stress::Unstressed));
+    }
+    // ʎ between vowels is always long (meglio ˈmɛʎʎo, famiglia, migliore), written twice as ɲ is.
+    let mut at = 1;
+    while at + 1 < segments.len() {
+        if segments[at].phoneme == LY && segments[at - 1].phoneme.is_vowel() && segments[at + 1].phoneme.is_vowel() {
+            segments.insert(at + 1, Segment::new(LY, Stress::Unstressed));
+            at += 1;
+        }
+        at += 1;
     }
     Some(syllabify(&segments, legal_onset))
 }

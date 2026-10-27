@@ -1,7 +1,8 @@
 # jespersen's own Italian word list (CC0): words respelt as Italian dictionaries write them, for
 # what the spelling rules would miss. One per line: the word in lower case, a tab, its respelling.
 # A grave accent marks the stress and, on e and o, an open vowel (tàvolo, bène, pòrta); an acute
-# one a closed e or o (crédere, sóle); ż is a voiced z (mèżżo). The rules stress the last syllable
+# one a closed e or o (crédere, sóle); ż is a voiced z (mèżżo); | marks where the words of a compound
+# join, so that an s after it keeps its voiceless sound (sta|séra). The rules stress the last syllable
 # but one (a final -ai the last: trovai, operai), read -issimo, -abile, -ico, -avano, -arono and
 # the like a syllable earlier, open e and o after i and u glides (piède, buòno) and in -ente,
 # -enza, -ello, -orio, and close them otherwise.
@@ -317,6 +318,26 @@ azzurra	ażżùrra
 mezzogiorno	mèżżogiórno
 zio	żìo
 zia	żìa
+# Compounds whose second word begins with s: it stays voiceless, though between vowels.
+stasera	sta|séra
+girasole	gira|sóle
+girasoli	gira|sóli
+ventisei	venti|sèi
+ventisette	venti|sètte
+trentasei	trenta|sèi
+trentasette	trenta|sètte
+quarantasei	quaranta|sèi
+quarantasette	quaranta|sètte
+cinquantasei	cinquanta|sèi
+cinquantasette	cinquanta|sètte
+sessantasei	sessanta|sèi
+sessantasette	sessanta|sètte
+settantasei	settanta|sèi
+settantasette	settanta|sètte
+ottantasei	ottanta|sèi
+ottantasette	ottanta|sètte
+novantasei	novanta|sèi
+novantasette	novanta|sètte
 sciopero	sciòpero
 due	dùe
 tue	tùe
